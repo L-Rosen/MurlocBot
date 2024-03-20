@@ -2,3 +2,4 @@ config.js
 sounds/
 logs/
 node_modules/
+src/data/database.sqlite
