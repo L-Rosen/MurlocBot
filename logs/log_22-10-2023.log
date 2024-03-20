@@ -1,0 +1,373 @@
+20:45:01 | Info | '' | 
+20:45:01 | Info | '[0/3] Initialisation du bot' | 
+20:45:01 | Info | '[1/3] Chargement des commandes ' | 
+20:45:01 | Info | '[CMD] Commande ping chargée avec succès' | 
+20:45:01 | Info | '[CMD] Commande reset chargée avec succès' | 
+20:45:01 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+20:45:01 | Info | '[CMD] Commande setsound chargée avec succès' | 
+20:46:17 | Info | '' | 
+20:46:17 | Info | '[0/3] Initialisation du bot' | 
+20:46:17 | Info | '[1/3] Chargement des commandes ' | 
+20:46:17 | Info | '[CMD] Commande ping chargée avec succès' | 
+20:46:17 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+20:46:17 | Info | '[CMD] Commande setsound chargée avec succès' | 
+20:46:17 | Info | '[CMD] Commande stats chargée avec succès' | 
+20:46:17 | Info | '[CMD] Commande reset chargée avec succès' | 
+20:46:17 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+20:46:17 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+20:46:17 | Info | '[2/3] Chargement des Events' | 
+20:46:17 | Info | '[CMD] Chargement des commandes terminé' | 
+20:46:17 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+20:46:18 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+20:46:17 | Info | '[DB] Chargement de la base de donnée' | 
+20:46:18 | Info | '[EVT] Event ready chargé avec succès' | 
+20:46:18 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+20:46:18 | Info | '[EVT] Chargement des events terminé' | 
+20:46:18 | Info | '[DB] Base de donnée chargée avec succès' | 
+20:46:18 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+20:46:26 | Error | 'Erreur lors de l\'exécution de la commande stats' | 
+20:46:26 | Error | 'Cannot read properties of undefined (reading \'getLevel\')' | 
+20:48:55 | Info | '' | 
+20:48:55 | Info | '[0/3] Initialisation du bot' | 
+20:48:55 | Info | '[1/3] Chargement des commandes ' | 
+20:48:55 | Info | '[CMD] Commande ping chargée avec succès' | 
+20:48:55 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+20:48:55 | Info | '[CMD] Commande stats chargée avec succès' | 
+20:48:55 | Info | '[CMD] Commande setsound chargée avec succès' | 
+20:48:55 | Info | '[CMD] Commande reset chargée avec succès' | 
+20:48:55 | Info | '[CMD] Chargement des commandes terminé' | 
+20:48:55 | Info | '[2/3] Chargement des Events' | 
+20:48:55 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+20:48:55 | Info | '[DB] Chargement de la base de donnée' | 
+20:48:55 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+20:48:55 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+20:48:55 | Info | '[EVT] Event ready chargé avec succès' | 
+20:48:55 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+20:48:55 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+20:48:55 | Info | '[EVT] Chargement des events terminé' | 
+20:48:55 | Info | '[DB] Base de donnée chargée avec succès' | 
+20:48:56 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+20:49:05 | Error | 'Erreur lors de l\'exécution de la commande stats' | 
+20:49:05 | Error | 'Cannot read properties of undefined (reading \'getLevel\')' | 
+20:49:49 | Info | '' | 
+20:49:49 | Info | '[0/3] Initialisation du bot' | 
+20:49:49 | Info | '[1/3] Chargement des commandes ' | 
+20:49:49 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+20:49:49 | Info | '[CMD] Commande ping chargée avec succès' | 
+20:49:49 | Info | '[CMD] Commande reset chargée avec succès' | 
+20:49:49 | Info | '[CMD] Commande setsound chargée avec succès' | 
+20:49:49 | Info | '[CMD] Commande stats chargée avec succès' | 
+20:49:49 | Info | '[CMD] Chargement des commandes terminé' | 
+20:49:49 | Info | '[2/3] Chargement des Events' | 
+20:49:49 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+20:49:49 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+20:49:49 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+20:49:49 | Info | '[DB] Chargement de la base de donnée' | 
+20:49:49 | Info | '[EVT] Event ready chargé avec succès' | 
+20:49:49 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+20:49:49 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+20:49:49 | Info | '[EVT] Chargement des events terminé' | 
+20:49:50 | Info | '[DB] Base de donnée chargée avec succès' | 
+20:49:50 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+20:51:10 | Info | '' | 
+20:51:10 | Info | '[0/3] Initialisation du bot' | 
+20:51:10 | Info | '[1/3] Chargement des commandes ' | 
+20:51:10 | Info | '[CMD] Commande ping chargée avec succès' | 
+20:51:10 | Info | '[CMD] Commande stats chargée avec succès' | 
+20:51:10 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+20:51:10 | Info | '[CMD] Chargement des commandes terminé' | 
+20:51:10 | Info | '[CMD] Commande setsound chargée avec succès' | 
+20:51:10 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+20:51:10 | Info | '[CMD] Commande reset chargée avec succès' | 
+20:51:10 | Info | '[2/3] Chargement des Events' | 
+20:51:10 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+20:51:10 | Info | '[EVT] Event ready chargé avec succès' | 
+20:51:10 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+20:51:10 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+20:51:10 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+20:51:10 | Info | '[DB] Chargement de la base de donnée' | 
+20:51:10 | Info | '[EVT] Chargement des events terminé' | 
+20:51:10 | Info | '[DB] Base de donnée chargée avec succès' | 
+20:51:12 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+20:51:15 | Error | 'Erreur lors de l\'exécution de la commande stats' | 
+20:51:15 | Error | 'Cannot read properties of undefined (reading \'getLevel\')' | 
+20:51:40 | Info | '' | 
+20:51:40 | Info | '[1/3] Chargement des commandes ' | 
+20:51:40 | Info | '[0/3] Initialisation du bot' | 
+20:51:40 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+20:51:40 | Info | '[CMD] Commande reset chargée avec succès' | 
+20:51:40 | Info | '[CMD] Commande ping chargée avec succès' | 
+20:51:40 | Info | '[CMD] Commande setsound chargée avec succès' | 
+20:51:40 | Info | '[CMD] Chargement des commandes terminé' | 
+20:51:40 | Info | '[2/3] Chargement des Events' | 
+20:51:40 | Info | '[CMD] Commande stats chargée avec succès' | 
+20:51:40 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+20:51:40 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+20:51:40 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+20:51:40 | Info | '[DB] Chargement de la base de donnée' | 
+20:51:40 | Info | '[EVT] Event ready chargé avec succès' | 
+20:51:40 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+20:51:40 | Info | '[EVT] Chargement des events terminé' | 
+20:51:40 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+20:51:41 | Info | '[DB] Base de donnée chargée avec succès' | 
+20:51:41 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+20:51:43 | Error | 'Erreur lors de l\'exécution de la commande stats' | 
+20:51:43 | Error | 'Cannot read properties of undefined (reading \'getLevel\')' | 
+20:52:15 | Info | '' | 
+20:52:15 | Info | '[0/3] Initialisation du bot' | 
+20:52:15 | Info | '[1/3] Chargement des commandes ' | 
+20:52:15 | Info | '[CMD] Commande ping chargée avec succès' | 
+20:52:15 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+20:52:15 | Info | '[CMD] Commande reset chargée avec succès' | 
+20:52:15 | Info | '[CMD] Commande setsound chargée avec succès' | 
+20:52:15 | Info | '[2/3] Chargement des Events' | 
+20:52:15 | Info | '[CMD] Chargement des commandes terminé' | 
+20:52:15 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+20:52:15 | Info | '[CMD] Commande stats chargée avec succès' | 
+20:52:15 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+20:52:15 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+20:52:15 | Info | '[EVT] Event ready chargé avec succès' | 
+20:52:15 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+20:52:15 | Info | '[EVT] Chargement des events terminé' | 
+20:52:15 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+20:52:15 | Info | '[DB] Chargement de la base de donnée' | 
+20:52:16 | Info | '[DB] Base de donnée chargée avec succès' | 
+20:52:16 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+20:52:19 | Error | 'Erreur lors de l\'exécution de la commande stats' | 
+20:52:19 | Error | 'Cannot find module \'./src/data/fetchData.js\'\nRequire stack:\n- C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\commands\\murlock\\stats.js\n- C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\src\\loader.js\n- C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\index.js' | 
+20:53:03 | Info | '' | 
+20:53:03 | Info | '[0/3] Initialisation du bot' | 
+20:53:03 | Info | '[1/3] Chargement des commandes ' | 
+20:53:03 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+20:53:03 | Info | '[CMD] Commande ping chargée avec succès' | 
+20:53:03 | Info | '[CMD] Commande reset chargée avec succès' | 
+20:53:03 | Info | '[CMD] Commande setsound chargée avec succès' | 
+20:53:03 | Info | '[CMD] Commande stats chargée avec succès' | 
+20:53:03 | Info | '[CMD] Chargement des commandes terminé' | 
+20:53:03 | Info | '[2/3] Chargement des Events' | 
+20:53:03 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+20:53:03 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+20:53:03 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+20:53:03 | Info | '[DB] Chargement de la base de donnée' | 
+20:53:03 | Info | '[EVT] Event ready chargé avec succès' | 
+20:53:03 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+20:53:03 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+20:53:03 | Info | '[EVT] Chargement des events terminé' | 
+20:53:03 | Info | '[DB] Base de donnée chargée avec succès' | 
+20:53:04 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+20:54:22 | Info | '' | 
+20:54:22 | Info | '[0/3] Initialisation du bot' | 
+20:54:22 | Info | '[1/3] Chargement des commandes ' | 
+20:54:22 | Info | '[CMD] Commande ping chargée avec succès' | 
+20:54:22 | Info | '[CMD] Commande stats chargée avec succès' | 
+20:54:22 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+20:54:22 | Info | '[CMD] Chargement des commandes terminé' | 
+20:54:22 | Info | '[CMD] Commande setsound chargée avec succès' | 
+20:54:22 | Info | '[CMD] Commande reset chargée avec succès' | 
+20:54:22 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+20:54:22 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+20:54:22 | Info | '[2/3] Chargement des Events' | 
+20:54:22 | Info | '[EVT] Event ready chargé avec succès' | 
+20:54:22 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+20:54:22 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+20:54:22 | Info | '[EVT] Chargement des events terminé' | 
+20:54:22 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+20:54:22 | Info | '[DB] Chargement de la base de donnée' | 
+20:54:22 | Info | '[DB] Base de donnée chargée avec succès' | 
+20:54:23 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+20:54:25 | Error | 'Erreur lors de l\'exécution de la commande stats' | 
+20:54:25 | Error | 'Cannot read properties of undefined (reading \'getLevel\')' | 
+20:58:11 | Info | '' | 
+20:58:11 | Info | '[0/3] Initialisation du bot' | 
+20:58:11 | Info | '[CMD] Commande ping chargée avec succès' | 
+20:58:11 | Info | '[1/3] Chargement des commandes ' | 
+20:58:11 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+20:58:11 | Info | '[CMD] Commande reset chargée avec succès' | 
+20:58:11 | Info | '[CMD] Commande stats chargée avec succès' | 
+20:58:11 | Info | '[CMD] Chargement des commandes terminé' | 
+20:58:11 | Info | '[CMD] Commande setsound chargée avec succès' | 
+20:58:11 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+20:58:11 | Info | '[2/3] Chargement des Events' | 
+20:58:11 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+20:58:11 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+20:58:11 | Info | '[DB] Chargement de la base de donnée' | 
+20:58:11 | Info | '[EVT] Event ready chargé avec succès' | 
+20:58:11 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+20:58:11 | Info | '[EVT] Chargement des events terminé' | 
+20:58:11 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+20:58:11 | Info | '[DB] Base de donnée chargée avec succès' | 
+20:58:12 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+20:58:14 | Error | 'Erreur lors de l\'exécution de la commande stats' | 
+20:58:14 | Error | 'id is not defined' | 
+20:58:46 | Info | '' | 
+20:58:46 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+20:58:46 | Info | '[0/3] Initialisation du bot' | 
+20:58:46 | Info | '[CMD] Commande ping chargée avec succès' | 
+20:58:46 | Info | '[CMD] Commande stats chargée avec succès' | 
+20:58:46 | Info | '[CMD] Commande setsound chargée avec succès' | 
+20:58:46 | Info | '[CMD] Commande reset chargée avec succès' | 
+20:58:46 | Info | '[2/3] Chargement des Events' | 
+20:58:46 | Info | '[CMD] Chargement des commandes terminé' | 
+20:58:46 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+20:58:46 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+20:58:46 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+20:58:46 | Info | '[1/3] Chargement des commandes ' | 
+20:58:46 | Info | '[EVT] Event ready chargé avec succès' | 
+20:58:46 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+20:58:46 | Info | '[DB] Chargement de la base de donnée' | 
+20:58:46 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+20:58:46 | Info | '[EVT] Chargement des events terminé' | 
+20:58:46 | Info | '[DB] Base de donnée chargée avec succès' | 
+20:58:47 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+20:58:48 | Error | 'Erreur lors de l\'exécution de la commande stats' | 
+20:58:48 | Error | 'Cannot read properties of undefined (reading \'getLevel\')' | 
+20:59:26 | Info | '' | 
+20:59:26 | Info | '[0/3] Initialisation du bot' | 
+20:59:26 | Info | '[1/3] Chargement des commandes ' | 
+20:59:26 | Info | '[CMD] Commande ping chargée avec succès' | 
+20:59:26 | Info | '[CMD] Commande reset chargée avec succès' | 
+20:59:26 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+20:59:26 | Info | '[CMD] Commande setsound chargée avec succès' | 
+20:59:26 | Info | '[CMD] Chargement des commandes terminé' | 
+20:59:26 | Info | '[CMD] Commande stats chargée avec succès' | 
+20:59:26 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+20:59:26 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+20:59:26 | Info | '[2/3] Chargement des Events' | 
+20:59:26 | Info | '[DB] Chargement de la base de donnée' | 
+20:59:26 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+20:59:26 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+20:59:26 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+20:59:26 | Info | '[EVT] Event ready chargé avec succès' | 
+20:59:26 | Info | '[EVT] Chargement des events terminé' | 
+20:59:26 | Info | '[DB] Base de donnée chargée avec succès' | 
+20:59:27 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+20:59:30 | Error | 'Erreur lors de l\'exécution de la commande stats' | 
+20:59:30 | Error | 'id is not defined' | 
+20:59:44 | Info | '' | 
+20:59:44 | Info | '[0/3] Initialisation du bot' | 
+20:59:44 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+20:59:44 | Info | '[CMD] Commande setsound chargée avec succès' | 
+20:59:44 | Info | '[CMD] Commande ping chargée avec succès' | 
+20:59:44 | Info | '[CMD] Commande reset chargée avec succès' | 
+20:59:44 | Info | '[CMD] Commande stats chargée avec succès' | 
+20:59:44 | Info | '[1/3] Chargement des commandes ' | 
+20:59:44 | Info | '[CMD] Chargement des commandes terminé' | 
+20:59:44 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+20:59:44 | Info | '[2/3] Chargement des Events' | 
+20:59:45 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+20:59:45 | Info | '[EVT] Event ready chargé avec succès' | 
+20:59:45 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+20:59:45 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+20:59:45 | Info | '[DB] Chargement de la base de donnée' | 
+20:59:45 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+20:59:45 | Info | '[EVT] Chargement des events terminé' | 
+20:59:45 | Info | '[DB] Base de donnée chargée avec succès' | 
+20:59:46 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+20:59:46 | Error | 'Erreur lors de l\'exécution de la commande stats' | 
+20:59:46 | Error | 'user is not defined' | 
+21:00:11 | Info | '' | 
+21:00:11 | Info | '[0/3] Initialisation du bot' | 
+21:00:11 | Info | '[1/3] Chargement des commandes ' | 
+21:00:11 | Info | '[CMD] Commande ping chargée avec succès' | 
+21:00:11 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+21:00:11 | Info | '[CMD] Commande stats chargée avec succès' | 
+21:00:11 | Info | '[CMD] Commande setsound chargée avec succès' | 
+21:00:11 | Info | '[2/3] Chargement des Events' | 
+21:00:11 | Info | '[CMD] Chargement des commandes terminé' | 
+21:00:11 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:00:11 | Info | '[CMD] Commande reset chargée avec succès' | 
+21:00:11 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+21:00:11 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:00:11 | Info | '[EVT] Event ready chargé avec succès' | 
+21:00:11 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:00:11 | Info | '[DB] Chargement de la base de donnée' | 
+21:00:11 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+21:00:11 | Info | '[EVT] Chargement des events terminé' | 
+21:00:12 | Info | '[DB] Base de donnée chargée avec succès' | 
+21:00:12 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+21:00:14 | Error | 'Erreur lors de l\'exécution de la commande stats' | 
+21:00:14 | Error | 'Received one or more errors' | 
+21:00:33 | Info | '' | 
+21:00:33 | Info | '[0/3] Initialisation du bot' | 
+21:00:33 | Info | '[1/3] Chargement des commandes ' | 
+21:00:33 | Info | '[CMD] Commande ping chargée avec succès' | 
+21:00:33 | Info | '[CMD] Commande reset chargée avec succès' | 
+21:00:33 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+21:00:33 | Info | '[CMD] Commande setsound chargée avec succès' | 
+21:00:33 | Info | '[2/3] Chargement des Events' | 
+21:00:33 | Info | '[CMD] Commande stats chargée avec succès' | 
+21:00:33 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:00:33 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+21:00:33 | Info | '[DB] Chargement de la base de donnée' | 
+21:00:33 | Info | '[CMD] Chargement des commandes terminé' | 
+21:00:33 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:00:33 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:00:33 | Info | '[EVT] Event ready chargé avec succès' | 
+21:00:33 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+21:00:33 | Info | '[EVT] Chargement des events terminé' | 
+21:00:33 | Info | '[DB] Base de donnée chargée avec succès' | 
+21:00:34 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+21:00:37 | Info | '' | 
+21:00:37 | Info | '[0/3] Initialisation du bot' | 
+21:00:37 | Info | '[CMD] Commande ping chargée avec succès' | 
+21:00:37 | Info | '[1/3] Chargement des commandes ' | 
+21:00:37 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+21:00:37 | Info | '[CMD] Commande setsound chargée avec succès' | 
+21:00:37 | Info | '[CMD] Commande reset chargée avec succès' | 
+21:00:37 | Info | '[CMD] Commande stats chargée avec succès' | 
+21:00:37 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:00:37 | Info | '[CMD] Chargement des commandes terminé' | 
+21:00:37 | Info | '[2/3] Chargement des Events' | 
+21:00:37 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:00:37 | Info | '[EVT] Event ready chargé avec succès' | 
+21:00:37 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+21:00:37 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:00:37 | Info | '[EVT] Chargement des events terminé' | 
+21:00:37 | Info | '[DB] Chargement de la base de donnée' | 
+21:00:37 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+21:00:38 | Info | '[DB] Base de donnée chargée avec succès' | 
+21:00:38 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+21:00:39 | Error | 'Erreur lors de l\'exécution de la commande stats' | 
+21:00:39 | Error | 'Received one or more errors' | 
+21:00:56 | Info | '' | 
+21:00:56 | Info | '[0/3] Initialisation du bot' | 
+21:00:56 | Info | '[1/3] Chargement des commandes ' | 
+21:00:56 | Info | '[CMD] Commande ping chargée avec succès' | 
+21:00:57 | Info | '[CMD] Commande stats chargée avec succès' | 
+21:00:56 | Info | '[CMD] Commande reset chargée avec succès' | 
+21:00:56 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+21:00:57 | Info | '[CMD] Chargement des commandes terminé' | 
+21:00:57 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:00:56 | Info | '[CMD] Commande setsound chargée avec succès' | 
+21:00:57 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:00:57 | Info | '[DB] Chargement de la base de donnée' | 
+21:00:57 | Info | '[EVT] Event ready chargé avec succès' | 
+21:00:57 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+21:00:57 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:00:57 | Info | '[2/3] Chargement des Events' | 
+21:00:57 | Info | '[EVT] Chargement des events terminé' | 
+21:00:57 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+21:00:57 | Info | '[DB] Base de donnée chargée avec succès' | 
+21:00:58 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+21:00:58 | Info | 'La commande stats a été exécutée par xeit0w' | 
+21:01:08 | Info | '' | 
+21:01:08 | Info | '[0/3] Initialisation du bot' | 
+21:01:08 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+21:01:08 | Info | '[1/3] Chargement des commandes ' | 
+21:01:08 | Info | '[CMD] Commande ping chargée avec succès' | 
+21:01:08 | Info | '[CMD] Commande setsound chargée avec succès' | 
+21:01:08 | Info | '[CMD] Commande reset chargée avec succès' | 
+21:01:08 | Info | '[2/3] Chargement des Events' | 
+21:01:08 | Info | '[CMD] Chargement des commandes terminé' | 
+21:01:08 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:01:08 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:01:09 | Info | '[DB] Chargement de la base de donnée' | 
+21:01:08 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+21:01:09 | Info | '[EVT] Event ready chargé avec succès' | 
+21:01:09 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:01:09 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+21:01:09 | Info | '[EVT] Chargement des events terminé' | 
+21:01:08 | Info | '[CMD] Commande stats chargée avec succès' | 
+21:01:09 | Info | '[DB] Base de donnée chargée avec succès' | 
+21:01:10 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+21:01:10 | Info | 'La commande stats a été exécutée par xeit0w' | 

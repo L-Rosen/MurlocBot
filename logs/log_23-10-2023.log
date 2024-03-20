@@ -1,0 +1,50 @@
+23:07:55 | Info | '' | 
+23:07:55 | Info | '[1/3] Chargement des commandes ' | 
+23:07:55 | Info | '[0/3] Initialisation du bot' | 
+23:07:55 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+23:07:55 | Info | '[CMD] Commande reset chargée avec succès' | 
+23:07:55 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:07:55 | Info | '[CMD] Commande ping chargée avec succès' | 
+23:07:56 | Info | '[CMD] Commande stats chargée avec succès' | 
+23:07:56 | Info | '[2/3] Chargement des Events' | 
+23:07:56 | Info | '[CMD] Chargement des commandes terminé' | 
+23:07:56 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+23:07:56 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+23:07:56 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+23:07:56 | Info | '[DB] Chargement de la base de donnée' | 
+23:07:56 | Info | '[EVT] Event ready chargé avec succès' | 
+23:07:56 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+23:07:56 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+23:07:56 | Info | '[EVT] Chargement des events terminé' | 
+23:07:56 | Info | '[DB] Base de donnée chargée avec succès' | 
+23:07:57 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+23:08:01 | Error | 'Erreur lors de l\'exécution de la commande stats' | 
+23:08:01 | Error | 'Received one or more errors' | 
+23:08:54 | Info | '' | 
+23:08:54 | Info | '[0/3] Initialisation du bot' | 
+23:08:54 | Info | '[1/3] Chargement des commandes ' | 
+23:08:54 | Info | '[CMD] Commande ping chargée avec succès' | 
+23:08:54 | Info | '[CMD] Commande stats chargée avec succès' | 
+23:08:54 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:08:54 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+23:08:54 | Info | '[CMD] Chargement des commandes terminé' | 
+23:08:54 | Info | '[CMD] Commande reset chargée avec succès' | 
+23:08:55 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+23:08:55 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+23:08:54 | Info | '[2/3] Chargement des Events' | 
+23:08:55 | Info | '[DB] Chargement de la base de donnée' | 
+23:08:54 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+23:08:55 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+23:08:55 | Info | '[EVT] Event ready chargé avec succès' | 
+23:08:55 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+23:08:55 | Info | '[EVT] Chargement des events terminé' | 
+23:08:55 | Info | '[DB] Base de donnée chargée avec succès' | 
+23:08:56 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+23:08:59 | Info | 'La commande stats a été exécutée par xeit0w' | 
+23:15:48 | Info | '' | 
+23:15:48 | Info | '[0/3] Initialisation du bot' | 
+23:15:48 | Info | '[1/3] Chargement des commandes ' | 
+23:15:48 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+23:15:48 | Info | '[CMD] Commande reset chargée avec succès' | 
+23:15:48 | Info | '[CMD] Commande ping chargée avec succès' | 
+23:15:48 | Info | '[CMD] Commande setsound chargée avec succès' | 

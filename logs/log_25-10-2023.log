@@ -1,0 +1,888 @@
+02:10:57 | Info | '' | 
+02:10:57 | Info | '[0/3] Initialisation du bot' | 
+02:10:57 | Info | '[1/3] Chargement des commandes ' | 
+02:10:57 | Info | '[CMD] Commande ping chargée avec succès' | 
+02:10:57 | Info | '[CMD] Commande reset chargée avec succès' | 
+02:10:57 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+02:10:57 | Info | '[CMD] Commande setsound chargée avec succès' | 
+02:10:57 | Info | '[CMD] Commande stats chargée avec succès' | 
+02:10:57 | Info | '[CMD] Chargement des commandes terminé' | 
+02:10:57 | Info | '[2/3] Chargement des Events' | 
+02:10:57 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:10:57 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+02:10:57 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:10:57 | Info | '[EVT] Event ready chargé avec succès' | 
+02:10:57 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:10:57 | Info | '[DB] Chargement de la base de donnée' | 
+02:10:57 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+02:10:57 | Info | '[EVT] Chargement des events terminé' | 
+02:10:57 | Info | '[DB] Base de donnée chargée avec succès' | 
+02:10:58 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+02:11:01 | Info | 'xeit0w a gagné 1 xp !' | 
+02:11:02 | Info | 'xeit0w a été murlocké avec succès' | 
+02:11:04 | Info | 'xeit0w a été murlocké avec succès' | 
+02:11:06 | Info | 'xeit0w a été murlocké avec succès' | 
+02:11:08 | Info | 'xeit0w a été murlocké avec succès' | 
+02:11:51 | Info | '' | 
+02:11:51 | Info | '[0/3] Initialisation du bot' | 
+02:11:51 | Info | '[1/3] Chargement des commandes ' | 
+02:11:51 | Info | '[CMD] Commande ping chargée avec succès' | 
+02:11:51 | Info | '[CMD] Commande stats chargée avec succès' | 
+02:11:51 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+02:11:51 | Info | '[CMD] Commande reset chargée avec succès' | 
+02:11:51 | Info | '[CMD] Commande setsound chargée avec succès' | 
+02:11:51 | Info | '[CMD] Chargement des commandes terminé' | 
+02:11:51 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:11:51 | Info | '[2/3] Chargement des Events' | 
+02:11:51 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+02:11:51 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:11:52 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:11:52 | Info | '[EVT] Event ready chargé avec succès' | 
+02:11:52 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+02:11:52 | Info | '[DB] Chargement de la base de donnée' | 
+02:11:52 | Info | '[EVT] Chargement des events terminé' | 
+02:11:52 | Info | '[DB] Base de donnée chargée avec succès' | 
+02:11:53 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+02:11:55 | Info | 'xeit0w a gagné 4 xp !' | 
+02:11:55 | Info | 'xeit0w est passé niveau %d !' | 
+02:11:55 | Error | 'Erreur lors de l\'ajout d\'xp à xeit0w' | 
+02:11:55 | Error | 'TypeError: murloc_icon.murloc_icon is not a function\n    at Object.execute (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\events\\xp_win.js:53:99)' | 
+02:11:55 | Info | 'xeit0w a été murlocké avec succès' | 
+02:12:11 | Info | '' | 
+02:12:11 | Info | '[1/3] Chargement des commandes ' | 
+02:12:11 | Info | '[0/3] Initialisation du bot' | 
+02:12:11 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+02:12:11 | Info | '[CMD] Commande reset chargée avec succès' | 
+02:12:11 | Info | '[CMD] Commande ping chargée avec succès' | 
+02:12:11 | Info | '[CMD] Commande setsound chargée avec succès' | 
+02:12:11 | Info | '[CMD] Commande stats chargée avec succès' | 
+02:12:11 | Info | '[CMD] Chargement des commandes terminé' | 
+02:12:11 | Info | '[2/3] Chargement des Events' | 
+02:12:11 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:12:11 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:12:11 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+02:12:11 | Info | '[DB] Chargement de la base de donnée' | 
+02:12:11 | Info | '[EVT] Event ready chargé avec succès' | 
+02:12:11 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:12:11 | Info | '[EVT] Chargement des events terminé' | 
+02:12:11 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+02:12:12 | Info | '[DB] Base de donnée chargée avec succès' | 
+02:12:12 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+02:12:19 | Info | 'xeit0w a gagné 5 xp !' | 
+02:12:19 | Info | 'xeit0w est passé niveau %d !' | 
+02:12:19 | Error | 'Erreur lors de l\'ajout d\'xp à xeit0w' | 
+02:12:19 | Error | 'TypeError [ERR_INVALID_URL]: Invalid URL\n    at new NodeError (node:internal/errors:399:5)\n    at new URL (node:internal/url:560:13)\n    at Object.loadImage (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\node_modules\\@napi-rs\\canvas\\load-image.js:39:43)\n    at async murloc_icon (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\src\\assets\\murloc_icon.js:19:26)\n    at async Object.execute (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\events\\xp_win.js:53:81)' | 
+02:12:20 | Info | 'xeit0w a été murlocké avec succès' | 
+02:12:52 | Info | '' | 
+02:12:52 | Info | '[0/3] Initialisation du bot' | 
+02:12:52 | Info | '[1/3] Chargement des commandes ' | 
+02:12:52 | Info | '[CMD] Commande ping chargée avec succès' | 
+02:12:52 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+02:12:52 | Info | '[CMD] Commande reset chargée avec succès' | 
+02:12:52 | Info | '[CMD] Commande setsound chargée avec succès' | 
+02:12:52 | Info | '[CMD] Commande stats chargée avec succès' | 
+02:12:52 | Info | '[CMD] Chargement des commandes terminé' | 
+02:12:52 | Info | '[2/3] Chargement des Events' | 
+02:12:52 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:12:52 | Info | '[DB] Chargement de la base de donnée' | 
+02:12:52 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+02:12:52 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:12:52 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:12:52 | Info | '[EVT] Event ready chargé avec succès' | 
+02:12:52 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+02:12:52 | Info | '[EVT] Chargement des events terminé' | 
+02:12:53 | Info | '[DB] Base de donnée chargée avec succès' | 
+02:12:53 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+02:12:58 | Info | 'xeit0w a été murlocké avec succès' | 
+02:13:07 | Info | '' | 
+02:13:07 | Info | '[0/3] Initialisation du bot' | 
+02:13:07 | Info | '[1/3] Chargement des commandes ' | 
+02:13:07 | Info | '[CMD] Commande ping chargée avec succès' | 
+02:13:07 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+02:13:07 | Info | '[CMD] Commande setsound chargée avec succès' | 
+02:13:07 | Info | '[CMD] Commande reset chargée avec succès' | 
+02:13:07 | Info | '[CMD] Commande stats chargée avec succès' | 
+02:13:07 | Info | '[CMD] Chargement des commandes terminé' | 
+02:13:07 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:13:07 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+02:13:07 | Info | '[DB] Chargement de la base de donnée' | 
+02:13:07 | Info | '[2/3] Chargement des Events' | 
+02:13:07 | Info | '[EVT] Event ready chargé avec succès' | 
+02:13:07 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:13:07 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:13:07 | Info | '[EVT] Chargement des events terminé' | 
+02:13:07 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+02:13:07 | Info | '[DB] Base de donnée chargée avec succès' | 
+02:13:08 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+02:13:13 | Info | 'xeit0w a été murlocké avec succès' | 
+02:13:26 | Info | '' | 
+02:13:26 | Info | '[0/3] Initialisation du bot' | 
+02:13:26 | Info | '[1/3] Chargement des commandes ' | 
+02:13:26 | Info | '[CMD] Commande ping chargée avec succès' | 
+02:13:26 | Info | '[CMD] Commande reset chargée avec succès' | 
+02:13:26 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+02:13:26 | Info | '[CMD] Chargement des commandes terminé' | 
+02:13:26 | Info | '[CMD] Commande stats chargée avec succès' | 
+02:13:26 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:13:26 | Info | '[CMD] Commande setsound chargée avec succès' | 
+02:13:26 | Info | '[2/3] Chargement des Events' | 
+02:13:26 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+02:13:26 | Info | '[EVT] Event ready chargé avec succès' | 
+02:13:26 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:13:26 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+02:13:26 | Info | '[DB] Chargement de la base de donnée' | 
+02:13:26 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:13:26 | Info | '[EVT] Chargement des events terminé' | 
+02:13:26 | Info | '[DB] Base de donnée chargée avec succès' | 
+02:13:27 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+02:14:05 | Info | '' | 
+02:14:05 | Info | '[0/3] Initialisation du bot' | 
+02:14:05 | Info | '[1/3] Chargement des commandes ' | 
+02:14:05 | Info | '[CMD] Commande ping chargée avec succès' | 
+02:14:05 | Info | '[CMD] Commande setsound chargée avec succès' | 
+02:14:05 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+02:14:05 | Info | '[CMD] Commande stats chargée avec succès' | 
+02:14:05 | Info | '[CMD] Commande reset chargée avec succès' | 
+02:14:05 | Info | '[CMD] Chargement des commandes terminé' | 
+02:14:05 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:14:05 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+02:14:05 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:14:05 | Info | '[EVT] Event ready chargé avec succès' | 
+02:14:05 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:14:05 | Info | '[DB] Chargement de la base de donnée' | 
+02:14:05 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+02:14:05 | Info | '[EVT] Chargement des events terminé' | 
+02:14:05 | Info | '[2/3] Chargement des Events' | 
+02:14:05 | Info | '[DB] Base de donnée chargée avec succès' | 
+02:14:06 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+02:14:08 | Info | 'xeit0w a gagné 1 xp !' | 
+02:14:08 | Info | 'xeit0w est passé niveau %d !' | 
+02:14:09 | Info | 'xeit0w est passé niveau %d !' | 
+02:14:09 | Info | 'xeit0w est passé niveau %d !' | 
+02:14:09 | Info | 'xeit0w est passé niveau %d !' | 
+02:14:10 | Info | 'xeit0w est passé niveau %d !' | 
+02:14:10 | Info | 'xeit0w est passé niveau %d !' | 
+02:14:10 | Info | 'xeit0w a été murlocké avec succès' | 
+02:14:10 | Info | 'xeit0w est passé niveau %d !' | 
+02:14:11 | Info | 'xeit0w est passé niveau %d !' | 
+02:14:11 | Info | 'xeit0w est passé niveau %d !' | 
+02:15:21 | Info | '' | 
+02:15:21 | Info | '[0/3] Initialisation du bot' | 
+02:15:21 | Info | '[1/3] Chargement des commandes ' | 
+02:15:21 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+02:15:21 | Info | '[CMD] Commande reset chargée avec succès' | 
+02:15:21 | Info | '[CMD] Commande ping chargée avec succès' | 
+02:15:21 | Info | '[CMD] Commande stats chargée avec succès' | 
+02:15:21 | Info | '[CMD] Commande setsound chargée avec succès' | 
+02:15:21 | Info | '[2/3] Chargement des Events' | 
+02:15:21 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:15:21 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:15:21 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+02:15:22 | Info | '[DB] Chargement de la base de donnée' | 
+02:15:22 | Info | '[EVT] Event ready chargé avec succès' | 
+02:15:22 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:15:22 | Info | '[EVT] Chargement des events terminé' | 
+02:15:22 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+02:15:21 | Info | '[CMD] Chargement des commandes terminé' | 
+02:15:22 | Info | '[DB] Base de donnée chargée avec succès' | 
+02:15:23 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+02:15:24 | Info | 'xeit0w a gagné 5 xp !' | 
+02:15:24 | Info | 'xeit0w est passé niveau %d !' | 
+02:16:51 | Info | '' | 
+02:16:51 | Info | '[CMD] Commande ping chargée avec succès' | 
+02:16:51 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+02:16:51 | Info | '[0/3] Initialisation du bot' | 
+02:16:51 | Info | '[1/3] Chargement des commandes ' | 
+02:16:51 | Info | '[CMD] Commande reset chargée avec succès' | 
+02:16:51 | Info | '[CMD] Chargement des commandes terminé' | 
+02:16:51 | Info | '[CMD] Commande setsound chargée avec succès' | 
+02:16:51 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:16:51 | Info | '[CMD] Commande stats chargée avec succès' | 
+02:16:51 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:16:51 | Info | '[2/3] Chargement des Events' | 
+02:16:51 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+02:16:52 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:16:52 | Info | '[DB] Chargement de la base de donnée' | 
+02:16:52 | Info | '[EVT] Event ready chargé avec succès' | 
+02:16:52 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+02:16:52 | Info | '[EVT] Chargement des events terminé' | 
+02:16:52 | Info | '[DB] Base de donnée chargée avec succès' | 
+02:16:52 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+02:16:58 | Info | 'xeit0w a gagné 6 xp !' | 
+02:16:58 | Info | 'xeit0w est passé niveau %d !' | 
+02:16:58 | Info | 'xeit0w est passé niveau %d !' | 
+02:16:59 | Info | 'xeit0w est passé niveau %d !' | 
+02:16:59 | Info | 'xeit0w est passé niveau %d !' | 
+02:16:59 | Info | 'xeit0w est passé niveau %d !' | 
+02:16:59 | Info | 'xeit0w a été murlocké avec succès' | 
+02:17:00 | Info | 'xeit0w est passé niveau %d !' | 
+02:17:00 | Info | 'xeit0w est passé niveau %d !' | 
+02:17:54 | Info | '' | 
+02:17:54 | Info | '[0/3] Initialisation du bot' | 
+02:17:54 | Info | '[CMD] Commande ping chargée avec succès' | 
+02:17:54 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+02:17:54 | Info | '[1/3] Chargement des commandes ' | 
+02:17:54 | Info | '[CMD] Commande reset chargée avec succès' | 
+02:17:54 | Info | '[CMD] Commande setsound chargée avec succès' | 
+02:17:54 | Info | '[CMD] Commande stats chargée avec succès' | 
+02:17:54 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:17:54 | Info | '[CMD] Chargement des commandes terminé' | 
+02:17:54 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:17:54 | Info | '[2/3] Chargement des Events' | 
+02:17:54 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+02:17:54 | Info | '[DB] Chargement de la base de donnée' | 
+02:17:54 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:17:54 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+02:17:54 | Info | '[EVT] Event ready chargé avec succès' | 
+02:17:54 | Info | '[EVT] Chargement des events terminé' | 
+02:17:55 | Info | '[DB] Base de donnée chargée avec succès' | 
+02:17:55 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+02:18:00 | Info | 'xeit0w a gagné 3 xp !' | 
+02:18:00 | Info | 'xeit0w est passé niveau %d !' | 
+02:18:00 | Info | 'xeit0w est passé niveau %d !' | 
+02:18:00 | Info | 'xeit0w est passé niveau %d !' | 
+02:18:00 | Info | 'xeit0w est passé niveau %d !' | 
+02:18:01 | Info | 'xeit0w est passé niveau %d !' | 
+02:18:01 | Info | 'xeit0w est passé niveau %d !' | 
+02:18:01 | Info | 'xeit0w a été murlocké avec succès' | 
+02:18:01 | Info | 'xeit0w est passé niveau %d !' | 
+02:18:02 | Info | 'xeit0w est passé niveau %d !' | 
+02:18:02 | Info | 'xeit0w est passé niveau %d !' | 
+02:18:02 | Info | 'xeit0w est passé niveau %d !' | 
+02:18:03 | Info | 'xeit0w est passé niveau %d !' | 
+02:18:03 | Info | 'xeit0w est passé niveau %d !' | 
+02:18:03 | Info | 'xeit0w est passé niveau %d !' | 
+02:18:04 | Info | 'xeit0w est passé niveau %d !' | 
+02:18:04 | Info | 'xeit0w est passé niveau %d !' | 
+02:18:04 | Info | 'xeit0w est passé niveau %d !' | 
+02:18:04 | Info | 'xeit0w est passé niveau %d !' | 
+02:18:05 | Info | 'xeit0w est passé niveau %d !' | 
+02:18:05 | Info | 'xeit0w est passé niveau %d !' | 
+02:18:05 | Info | 'xeit0w est passé niveau %d !' | 
+02:20:20 | Info | 'La commande stats a été exécutée par xeit0w' | 
+02:25:00 | Info | 'motisma a gagné 4 xp !' | 
+02:25:01 | Info | 'motisma a été murlocké avec succès' | 
+02:25:35 | Info | 'La commande stats a été exécutée par xeit0w' | 
+02:58:44 | Info | '' | 
+02:58:44 | Info | '[0/3] Initialisation du bot' | 
+02:58:44 | Info | '[1/3] Chargement des commandes ' | 
+02:58:44 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+02:58:44 | Info | '[CMD] Commande reset chargée avec succès' | 
+02:58:44 | Info | '[CMD] Commande ping chargée avec succès' | 
+02:58:44 | Info | '[CMD] Commande setsound chargée avec succès' | 
+02:58:44 | Info | '[CMD] Commande stats chargée avec succès' | 
+02:58:44 | Info | '[CMD] Chargement des commandes terminé' | 
+02:58:44 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:58:44 | Info | '[2/3] Chargement des Events' | 
+02:58:44 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:58:44 | Info | '[DB] Chargement de la base de donnée' | 
+02:58:44 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+02:58:44 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:58:44 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+02:58:44 | Info | '[EVT] Chargement des events terminé' | 
+02:58:44 | Info | '[EVT] Event ready chargé avec succès' | 
+02:58:44 | Info | '[DB] Base de donnée chargée avec succès' | 
+02:58:45 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+02:58:47 | Error | 'Erreur lors de l\'exécution de la commande stats' | 
+02:58:47 | Error | 'Received one or more errors' | 
+02:59:19 | Info | '' | 
+02:59:19 | Info | '[0/3] Initialisation du bot' | 
+02:59:19 | Info | '[1/3] Chargement des commandes ' | 
+02:59:19 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+02:59:19 | Info | '[CMD] Commande ping chargée avec succès' | 
+02:59:19 | Info | '[CMD] Commande reset chargée avec succès' | 
+02:59:19 | Info | '[CMD] Commande setsound chargée avec succès' | 
+02:59:19 | Info | '[CMD] Commande stats chargée avec succès' | 
+02:59:19 | Info | '[CMD] Chargement des commandes terminé' | 
+02:59:19 | Info | '[2/3] Chargement des Events' | 
+02:59:19 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:59:19 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:59:19 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+02:59:19 | Info | '[DB] Chargement de la base de donnée' | 
+02:59:19 | Info | '[EVT] Event ready chargé avec succès' | 
+02:59:19 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:59:19 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+02:59:19 | Info | '[EVT] Chargement des events terminé' | 
+02:59:20 | Info | '[DB] Base de donnée chargée avec succès' | 
+02:59:20 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+02:59:31 | Error | 'Erreur lors de l\'exécution de la commande stats' | 
+02:59:31 | Error | 'Received one or more errors' | 
+03:00:24 | Info | '' | 
+03:00:44 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+03:00:42 | Info | '[1/3] Chargement des commandes ' | 
+03:00:45 | Info | '[CMD] Commande ping chargée avec succès' | 
+03:00:45 | Info | '[CMD] Commande reset chargée avec succès' | 
+03:00:38 | Info | '[0/3] Initialisation du bot' | 
+03:00:45 | Info | '[CMD] Commande setsound chargée avec succès' | 
+03:00:46 | Info | '[CMD] Commande stats chargée avec succès' | 
+03:00:46 | Info | '[CMD] Chargement des commandes terminé' | 
+03:00:46 | Info | '[2/3] Chargement des Events' | 
+03:00:46 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:00:46 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:00:47 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:00:47 | Info | '[DB] Chargement de la base de donnée' | 
+03:00:47 | Info | '[EVT] Event ready chargé avec succès' | 
+03:00:48 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:00:48 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:00:48 | Info | '[EVT] Chargement des events terminé' | 
+03:00:48 | Info | '[DB] Base de donnée chargée avec succès' | 
+03:00:49 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+03:02:42 | Info | '' | 
+03:02:42 | Info | '[0/3] Initialisation du bot' | 
+03:02:42 | Info | '[1/3] Chargement des commandes ' | 
+03:02:42 | Info | '[CMD] Commande ping chargée avec succès' | 
+03:02:42 | Info | '[CMD] Commande stats chargée avec succès' | 
+03:02:42 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+03:02:42 | Info | '[CMD] Commande setsound chargée avec succès' | 
+03:02:42 | Info | '[CMD] Chargement des commandes terminé' | 
+03:02:42 | Info | '[CMD] Commande reset chargée avec succès' | 
+03:02:42 | Info | '[2/3] Chargement des Events' | 
+03:02:42 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:02:42 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:02:42 | Info | '[EVT] Event ready chargé avec succès' | 
+03:02:42 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:02:42 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:02:42 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:02:42 | Info | '[EVT] Chargement des events terminé' | 
+03:02:42 | Info | '[DB] Chargement de la base de donnée' | 
+03:02:42 | Info | '[DB] Base de donnée chargée avec succès' | 
+03:02:43 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+03:02:45 | Info | 'La commande stats a été exécutée par xeit0w' | 
+03:04:11 | Info | '' | 
+03:04:11 | Info | '[0/3] Initialisation du bot' | 
+03:04:11 | Info | '[CMD] Commande ping chargée avec succès' | 
+03:04:11 | Info | '[1/3] Chargement des commandes ' | 
+03:04:11 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+03:04:11 | Info | '[CMD] Commande reset chargée avec succès' | 
+03:04:11 | Info | '[CMD] Commande setsound chargée avec succès' | 
+03:04:11 | Info | '[CMD] Chargement des commandes terminé' | 
+03:04:11 | Info | '[CMD] Commande stats chargée avec succès' | 
+03:04:11 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:04:11 | Info | '[2/3] Chargement des Events' | 
+03:04:11 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:04:11 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:04:11 | Info | '[EVT] Event ready chargé avec succès' | 
+03:04:11 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:04:11 | Info | '[DB] Chargement de la base de donnée' | 
+03:04:11 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:04:11 | Info | '[EVT] Chargement des events terminé' | 
+03:04:12 | Info | '[DB] Base de donnée chargée avec succès' | 
+03:04:12 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+03:04:14 | Info | 'La commande stats a été exécutée par xeit0w' | 
+03:05:11 | Info | '' | 
+03:05:11 | Info | '[0/3] Initialisation du bot' | 
+03:05:11 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+03:05:11 | Info | '[1/3] Chargement des commandes ' | 
+03:05:11 | Info | '[CMD] Commande setsound chargée avec succès' | 
+03:05:11 | Info | '[CMD] Commande reset chargée avec succès' | 
+03:05:11 | Info | '[CMD] Commande stats chargée avec succès' | 
+03:05:11 | Info | '[CMD] Commande ping chargée avec succès' | 
+03:05:11 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:05:11 | Info | '[CMD] Chargement des commandes terminé' | 
+03:05:11 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:05:11 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:05:11 | Info | '[DB] Chargement de la base de donnée' | 
+03:05:11 | Info | '[2/3] Chargement des Events' | 
+03:05:11 | Info | '[EVT] Event ready chargé avec succès' | 
+03:05:11 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:05:11 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:05:11 | Info | '[EVT] Chargement des events terminé' | 
+03:05:11 | Info | '[DB] Base de donnée chargée avec succès' | 
+03:05:12 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+03:08:32 | Info | '' | 
+03:08:32 | Info | '[0/3] Initialisation du bot' | 
+03:08:32 | Info | '[CMD] Commande ping chargée avec succès' | 
+03:08:32 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+03:08:32 | Info | '[CMD] Commande reset chargée avec succès' | 
+03:08:32 | Info | '[CMD] Commande stats chargée avec succès' | 
+03:08:32 | Info | '[CMD] Commande setsound chargée avec succès' | 
+03:08:32 | Info | '[1/3] Chargement des commandes ' | 
+03:08:32 | Info | '[CMD] Chargement des commandes terminé' | 
+03:08:32 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:08:32 | Info | '[2/3] Chargement des Events' | 
+03:08:32 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:08:32 | Info | '[DB] Chargement de la base de donnée' | 
+03:08:32 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:08:32 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:08:32 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:08:32 | Info | '[EVT] Event ready chargé avec succès' | 
+03:08:32 | Info | '[EVT] Chargement des events terminé' | 
+03:08:33 | Info | '[DB] Base de donnée chargée avec succès' | 
+03:08:33 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+03:08:37 | Info | 'La commande stats a été exécutée par xeit0w' | 
+03:09:21 | Info | 'La commande stats a été exécutée par xeit0w' | 
+03:10:47 | Info | '' | 
+03:10:47 | Info | '[0/3] Initialisation du bot' | 
+03:10:47 | Info | '[CMD] Commande ping chargée avec succès' | 
+03:10:47 | Info | '[1/3] Chargement des commandes ' | 
+03:10:47 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+03:10:47 | Info | '[CMD] Commande reset chargée avec succès' | 
+03:10:47 | Info | '[CMD] Commande setsound chargée avec succès' | 
+03:10:47 | Info | '[CMD] Chargement des commandes terminé' | 
+03:10:47 | Info | '[CMD] Commande stats chargée avec succès' | 
+03:10:47 | Info | '[2/3] Chargement des Events' | 
+03:10:47 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:10:47 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:10:47 | Info | '[DB] Chargement de la base de donnée' | 
+03:10:47 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:10:47 | Info | '[EVT] Event ready chargé avec succès' | 
+03:10:47 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:10:47 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:10:47 | Info | '[EVT] Chargement des events terminé' | 
+03:10:47 | Info | '[DB] Base de donnée chargée avec succès' | 
+03:10:48 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+03:10:51 | Info | 'La commande stats a été exécutée par xeit0w' | 
+03:11:13 | Info | '' | 
+03:11:13 | Info | '[0/3] Initialisation du bot' | 
+03:11:13 | Info | '[1/3] Chargement des commandes ' | 
+03:11:13 | Info | '[CMD] Commande ping chargée avec succès' | 
+03:11:13 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+03:11:13 | Info | '[CMD] Commande setsound chargée avec succès' | 
+03:11:13 | Info | '[CMD] Commande reset chargée avec succès' | 
+03:11:37 | Info | '' | 
+03:11:37 | Info | '[1/3] Chargement des commandes ' | 
+03:11:37 | Info | '[0/3] Initialisation du bot' | 
+03:11:37 | Info | '[CMD] Commande ping chargée avec succès' | 
+03:11:37 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+03:11:37 | Info | '[CMD] Commande setsound chargée avec succès' | 
+03:11:37 | Info | '[CMD] Commande reset chargée avec succès' | 
+03:11:37 | Info | '[CMD] Chargement des commandes terminé' | 
+03:11:37 | Info | '[CMD] Commande stats chargée avec succès' | 
+03:11:37 | Info | '[2/3] Chargement des Events' | 
+03:11:37 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:11:37 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:11:37 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:11:37 | Info | '[EVT] Event ready chargé avec succès' | 
+03:11:37 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:11:37 | Info | '[EVT] Chargement des events terminé' | 
+03:11:37 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:11:37 | Info | '[DB] Chargement de la base de donnée' | 
+03:11:37 | Info | '[DB] Base de donnée chargée avec succès' | 
+03:11:38 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+03:11:41 | Info | 'La commande stats a été exécutée par xeit0w' | 
+03:11:52 | Info | 'xeit0w a gagné 3 xp !' | 
+03:11:53 | Info | 'xeit0w a été murlocké avec succès' | 
+03:11:58 | Info | 'La commande stats a été exécutée par xeit0w' | 
+03:12:05 | Info | 'La commande stats a été exécutée par xeit0w' | 
+03:12:08 | Info | 'xeit0w a gagné 1 xp !' | 
+03:12:09 | Info | 'xeit0w a été murlocké avec succès' | 
+03:12:11 | Info | 'La commande stats a été exécutée par xeit0w' | 
+03:12:16 | Info | 'xeit0w a gagné 4 xp !' | 
+03:12:16 | Info | 'xeit0w est passé niveau %d !' | 
+03:12:17 | Info | 'xeit0w a été murlocké avec succès' | 
+03:12:22 | Info | 'La commande stats a été exécutée par xeit0w' | 
+03:13:41 | Info | '' | 
+03:13:41 | Info | '[0/3] Initialisation du bot' | 
+03:13:41 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+03:13:41 | Info | '[CMD] Commande ping chargée avec succès' | 
+03:13:41 | Info | '[1/3] Chargement des commandes ' | 
+03:13:41 | Info | '[CMD] Commande setsound chargée avec succès' | 
+03:13:41 | Info | '[CMD] Chargement des commandes terminé' | 
+03:13:41 | Info | '[CMD] Commande reset chargée avec succès' | 
+03:13:41 | Info | '[CMD] Commande stats chargée avec succès' | 
+03:13:41 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:13:41 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:13:41 | Info | '[DB] Chargement de la base de donnée' | 
+03:13:41 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:13:41 | Info | '[2/3] Chargement des Events' | 
+03:13:41 | Info | '[EVT] Event ready chargé avec succès' | 
+03:13:41 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:13:41 | Info | '[EVT] Chargement des events terminé' | 
+03:13:41 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:13:41 | Info | '[DB] Base de donnée chargée avec succès' | 
+03:13:42 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+03:14:09 | Info | 'La commande stats a été exécutée par xeit0w' | 
+03:14:15 | Info | 'xeit0w a gagné 3 xp !' | 
+03:14:16 | Info | 'xeit0w a été murlocké avec succès' | 
+03:14:19 | Info | 'La commande stats a été exécutée par xeit0w' | 
+03:14:28 | Info | 'xeit0w a gagné 5 xp !' | 
+03:14:28 | Info | 'xeit0w est passé niveau %d !' | 
+03:14:28 | Info | 'xeit0w a été murlocké avec succès' | 
+03:14:33 | Info | 'La commande stats a été exécutée par xeit0w' | 
+03:14:46 | Info | 'La commande stats a été exécutée par xeit0w' | 
+03:15:05 | Info | 'xeit0w a gagné 4 xp !' | 
+03:15:05 | Info | 'xeit0w a été murlocké avec succès' | 
+03:15:10 | Info | 'La commande stats a été exécutée par xeit0w' | 
+03:15:22 | Info | 'xeit0w a gagné 4 xp !' | 
+03:15:22 | Info | 'xeit0w a été murlocké avec succès' | 
+03:15:26 | Info | 'La commande stats a été exécutée par xeit0w' | 
+03:22:59 | Info | '' | 
+03:22:59 | Info | '[0/3] Initialisation du bot' | 
+03:22:59 | Info | '[1/3] Chargement des commandes ' | 
+03:22:59 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+03:22:59 | Info | '[CMD] Commande reset chargée avec succès' | 
+03:22:59 | Info | '[CMD] Commande ping chargée avec succès' | 
+03:22:59 | Info | '[CMD] Commande setsound chargée avec succès' | 
+03:22:59 | Info | '[CMD] Commande stats chargée avec succès' | 
+03:22:59 | Info | '[CMD] Chargement des commandes terminé' | 
+03:22:59 | Info | '[2/3] Chargement des Events' | 
+03:22:59 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:22:59 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:22:59 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:22:59 | Info | '[DB] Chargement de la base de donnée' | 
+03:22:59 | Info | '[EVT] Event ready chargé avec succès' | 
+03:22:59 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:22:59 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:22:59 | Info | '[EVT] Chargement des events terminé' | 
+03:22:59 | Info | '[DB] Base de donnée chargée avec succès' | 
+03:23:00 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+03:23:03 | Info | 'La commande stats a été exécutée par xeit0w' | 
+03:23:30 | Info | '' | 
+03:23:30 | Info | '[0/3] Initialisation du bot' | 
+03:23:30 | Info | '[1/3] Chargement des commandes ' | 
+03:23:30 | Info | '[CMD] Commande ping chargée avec succès' | 
+03:23:30 | Info | '[CMD] Commande stats chargée avec succès' | 
+03:23:30 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+03:23:30 | Info | '[CMD] Chargement des commandes terminé' | 
+03:23:30 | Info | '[CMD] Commande reset chargée avec succès' | 
+03:23:30 | Info | '[CMD] Commande setsound chargée avec succès' | 
+03:23:30 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:23:30 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:23:30 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:23:30 | Info | '[EVT] Event ready chargé avec succès' | 
+03:23:30 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:23:30 | Info | '[DB] Chargement de la base de donnée' | 
+03:23:30 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:23:30 | Info | '[EVT] Chargement des events terminé' | 
+03:23:30 | Info | '[2/3] Chargement des Events' | 
+03:23:30 | Info | '[DB] Base de donnée chargée avec succès' | 
+03:23:31 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+03:23:33 | Info | 'La commande stats a été exécutée par xeit0w' | 
+03:26:33 | Info | '' | 
+03:26:33 | Info | '[0/3] Initialisation du bot' | 
+03:26:33 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+03:26:33 | Info | '[CMD] Commande ping chargée avec succès' | 
+03:26:33 | Info | '[1/3] Chargement des commandes ' | 
+03:26:33 | Info | '[CMD] Commande setsound chargée avec succès' | 
+03:26:33 | Info | '[CMD] Commande stats chargée avec succès' | 
+03:26:33 | Info | '[CMD] Commande reset chargée avec succès' | 
+03:26:33 | Info | '[2/3] Chargement des Events' | 
+03:26:33 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:26:33 | Info | '[CMD] Chargement des commandes terminé' | 
+03:26:33 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:26:33 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:26:33 | Info | '[DB] Chargement de la base de donnée' | 
+03:26:33 | Info | '[EVT] Event ready chargé avec succès' | 
+03:26:33 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:26:33 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:26:33 | Info | '[EVT] Chargement des events terminé' | 
+03:26:34 | Info | '[DB] Base de donnée chargée avec succès' | 
+03:26:34 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+03:26:36 | Info | 'La commande stats a été exécutée par xeit0w' | 
+03:28:43 | Info | '' | 
+03:28:43 | Info | '[1/3] Chargement des commandes ' | 
+03:28:43 | Info | '[0/3] Initialisation du bot' | 
+03:28:43 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+03:28:43 | Info | '[CMD] Commande reset chargée avec succès' | 
+03:28:43 | Info | '[CMD] Commande ping chargée avec succès' | 
+03:28:43 | Info | '[CMD] Commande stats chargée avec succès' | 
+03:28:43 | Info | '[CMD] Commande setsound chargée avec succès' | 
+03:28:43 | Info | '[2/3] Chargement des Events' | 
+03:28:43 | Info | '[CMD] Chargement des commandes terminé' | 
+03:28:43 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:28:43 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:28:43 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:28:44 | Info | '[DB] Chargement de la base de donnée' | 
+03:28:44 | Info | '[EVT] Event ready chargé avec succès' | 
+03:28:44 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:28:44 | Info | '[EVT] Chargement des events terminé' | 
+03:28:44 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:28:44 | Info | '[DB] Base de donnée chargée avec succès' | 
+03:28:45 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+03:28:48 | Info | 'La commande stats a été exécutée par xeit0w' | 
+03:42:34 | Info | '' | 
+03:42:34 | Info | '[1/3] Chargement des commandes ' | 
+03:42:34 | Info | '[0/3] Initialisation du bot' | 
+03:42:48 | Info | '' | 
+03:42:48 | Info | '[0/3] Initialisation du bot' | 
+03:42:48 | Info | '[1/3] Chargement des commandes ' | 
+03:42:56 | Info | '' | 
+03:42:56 | Info | '[0/3] Initialisation du bot' | 
+03:42:56 | Info | '[1/3] Chargement des commandes ' | 
+03:43:10 | Info | '' | 
+03:43:15 | Info | '[0/3] Initialisation du bot' | 
+03:43:15 | Info | '[1/3] Chargement des commandes ' | 
+03:48:42 | Info | '' | 
+03:48:42 | Info | '[1/3] Chargement des commandes ' | 
+03:48:42 | Info | '[0/3] Initialisation du bot' | 
+03:48:42 | Info | '[CMD] Commande clear chargée avec succès' | 
+03:48:42 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+03:48:42 | Info | '[CMD] Commande reset chargée avec succès' | 
+03:48:42 | Info | '[CMD] Commande ping chargée avec succès' | 
+03:48:42 | Info | '[CMD] Commande setsound chargée avec succès' | 
+03:48:42 | Info | '[CMD] Commande stats chargée avec succès' | 
+03:48:42 | Info | '[CMD] Chargement des commandes terminé' | 
+03:48:42 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:48:42 | Info | '[2/3] Chargement des Events' | 
+03:48:42 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:48:42 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:48:42 | Info | '[DB] Chargement de la base de donnée' | 
+03:48:42 | Info | '[EVT] Event ready chargé avec succès' | 
+03:48:42 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:48:42 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:48:42 | Info | '[EVT] Chargement des events terminé' | 
+03:48:42 | Info | '[DB] Base de donnée chargée avec succès' | 
+03:48:43 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+03:48:49 | Info | 'La commande stats a été exécutée par xeit0w' | 
+03:48:55 | Error | 'Erreur lors de l\'exécution de la commande clear' | 
+03:48:55 | Error | 'DiscordAPIError[50013]: Missing Permissions\n    at handleErrors (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\node_modules\\@discordjs\\rest\\dist\\index.js:687:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\node_modules\\@discordjs\\rest\\dist\\index.js:1072:23)\n    at async SequentialHandler.queueRequest (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\node_modules\\@discordjs\\rest\\dist\\index.js:913:14)\n    at async _REST.request (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\node_modules\\@discordjs\\rest\\dist\\index.js:1218:22)\n    at async TextChannel.bulkDelete (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\node_modules\\discord.js\\src\\structures\\interfaces\\TextBasedChannel.js:299:7)\n    at async Object.execute (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\commands\\core\\clear.js:22:9)\n    at async Object.execute (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\events\\interactionCreate.js:16:13)' | 
+03:49:25 | Error | 'Erreur lors de l\'exécution de la commande clear' | 
+03:49:25 | Error | 'DiscordAPIError[50013]: Missing Permissions\n    at handleErrors (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\node_modules\\@discordjs\\rest\\dist\\index.js:687:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\node_modules\\@discordjs\\rest\\dist\\index.js:1072:23)\n    at async SequentialHandler.queueRequest (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\node_modules\\@discordjs\\rest\\dist\\index.js:913:14)\n    at async _REST.request (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\node_modules\\@discordjs\\rest\\dist\\index.js:1218:22)\n    at async TextChannel.bulkDelete (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\node_modules\\discord.js\\src\\structures\\interfaces\\TextBasedChannel.js:299:7)\n    at async Object.execute (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\commands\\core\\clear.js:22:9)\n    at async Object.execute (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\events\\interactionCreate.js:16:13)' | 
+03:51:15 | Info | '' | 
+03:51:15 | Info | '[0/3] Initialisation du bot' | 
+03:51:15 | Info | '[1/3] Chargement des commandes ' | 
+03:51:15 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+03:51:15 | Info | '[CMD] Commande clear chargée avec succès' | 
+03:51:15 | Info | '[CMD] Commande ping chargée avec succès' | 
+03:51:15 | Info | '[CMD] Commande reset chargée avec succès' | 
+03:51:15 | Info | '[CMD] Chargement des commandes terminé' | 
+03:51:15 | Info | '[CMD] Commande setsound chargée avec succès' | 
+03:51:15 | Info | '[CMD] Commande stats chargée avec succès' | 
+03:51:15 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:51:15 | Info | '[2/3] Chargement des Events' | 
+03:51:15 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:51:16 | Info | '[EVT] Event ready chargé avec succès' | 
+03:51:15 | Info | '[DB] Chargement de la base de donnée' | 
+03:51:16 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:51:16 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:51:15 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:51:16 | Info | '[EVT] Chargement des events terminé' | 
+03:51:16 | Info | '[DB] Base de donnée chargée avec succès' | 
+03:51:16 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+03:51:19 | Error | 'Erreur lors de l\'exécution de la commande clear' | 
+03:51:19 | Error | 'TypeError: interaction.channel.fetchMessage is not a function\n    at Object.execute (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\commands\\core\\clear.js:22:29)\n    at Object.execute (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\events\\interactionCreate.js:16:27)\n    at Client.<anonymous> (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\src\\loader.js:50:54)\n    at Client.emit (node:events:525:35)\n    at InteractionCreateAction.handle (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\node_modules\\discord.js\\src\\client\\actions\\InteractionCreate.js:97:12)\n    at module.exports [as INTERACTION_CREATE] (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\node_modules\\discord.js\\src\\client\\websocket\\handlers\\INTERACTION_CREATE.js:4:36)\n    at WebSocketManager.handlePacket (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\node_modules\\discord.js\\src\\client\\websocket\\WebSocketManager.js:355:31)\n    at WebSocketManager.<anonymous> (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\node_modules\\discord.js\\src\\client\\websocket\\WebSocketManager.js:239:12)\n    at WebSocketManager.emit (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\node_modules\\@vladfrangu\\async_event_emitter\\dist\\index.js:282:31)\n    at WebSocketShard.<anonymous> (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\node_modules\\@discordjs\\ws\\dist\\index.js:1173:51)' | 
+03:51:50 | Info | '' | 
+03:51:50 | Info | '[0/3] Initialisation du bot' | 
+03:51:50 | Info | '[1/3] Chargement des commandes ' | 
+03:51:50 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+03:51:50 | Info | '[CMD] Commande setsound chargée avec succès' | 
+03:51:50 | Info | '[CMD] Commande reset chargée avec succès' | 
+03:51:50 | Info | '[CMD] Commande ping chargée avec succès' | 
+03:51:50 | Info | '[CMD] Commande stats chargée avec succès' | 
+03:51:50 | Info | '[CMD] Chargement des commandes terminé' | 
+03:51:50 | Info | '[CMD] Commande clear chargée avec succès' | 
+03:51:50 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:51:50 | Info | '[2/3] Chargement des Events' | 
+03:51:50 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:51:51 | Info | '[EVT] Event ready chargé avec succès' | 
+03:51:50 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:51:51 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:51:51 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:51:51 | Info | '[DB] Chargement de la base de donnée' | 
+03:51:51 | Info | '[EVT] Chargement des events terminé' | 
+03:51:51 | Info | '[DB] Base de donnée chargée avec succès' | 
+03:51:52 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+03:51:53 | Error | 'Erreur lors de l\'exécution de la commande clear' | 
+03:51:53 | Error | 'DiscordAPIError[50013]: Missing Permissions\n    at handleErrors (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\node_modules\\@discordjs\\rest\\dist\\index.js:687:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\node_modules\\@discordjs\\rest\\dist\\index.js:1072:23)\n    at async SequentialHandler.queueRequest (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\node_modules\\@discordjs\\rest\\dist\\index.js:913:14)\n    at async _REST.request (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\node_modules\\@discordjs\\rest\\dist\\index.js:1218:22)\n    at async TextChannel.bulkDelete (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\node_modules\\discord.js\\src\\structures\\interfaces\\TextBasedChannel.js:299:7)\n    at async Object.execute (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\commands\\core\\clear.js:21:9)\n    at async Object.execute (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\events\\interactionCreate.js:16:13)' | 
+03:52:46 | Info | '' | 
+03:52:46 | Info | '[1/3] Chargement des commandes ' | 
+03:52:46 | Info | '[0/3] Initialisation du bot' | 
+03:52:46 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+03:52:46 | Info | '[CMD] Commande clear chargée avec succès' | 
+03:52:46 | Info | '[CMD] Commande ping chargée avec succès' | 
+03:52:46 | Info | '[CMD] Commande reset chargée avec succès' | 
+03:52:46 | Info | '[CMD] Commande stats chargée avec succès' | 
+03:52:46 | Info | '[CMD] Commande setsound chargée avec succès' | 
+03:52:46 | Info | '[CMD] Chargement des commandes terminé' | 
+03:52:46 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:52:46 | Info | '[2/3] Chargement des Events' | 
+03:52:46 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:52:46 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:52:46 | Info | '[EVT] Event ready chargé avec succès' | 
+03:52:46 | Info | '[DB] Chargement de la base de donnée' | 
+03:52:46 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:52:46 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:52:46 | Info | '[EVT] Chargement des events terminé' | 
+03:52:46 | Info | '[DB] Base de donnée chargée avec succès' | 
+03:52:47 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+03:52:50 | Info | 'La commande clear a été exécutée par xeit0w' | 
+03:54:26 | Info | 'La commande clear a été exécutée par xeit0w' | 
+03:54:40 | Error | 'Erreur lors de l\'exécution de la commande clear' | 
+03:54:40 | Error | 'DiscordAPIError[50035]: Invalid Form Body\nlimit[NUMBER_TYPE_MAX]: int value should be less than or equal to 100.\n    at handleErrors (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\node_modules\\@discordjs\\rest\\dist\\index.js:687:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\node_modules\\@discordjs\\rest\\dist\\index.js:1072:23)\n    at async SequentialHandler.queueRequest (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\node_modules\\@discordjs\\rest\\dist\\index.js:913:14)\n    at async _REST.request (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\node_modules\\@discordjs\\rest\\dist\\index.js:1218:22)\n    at async GuildMessageManager._fetchMany (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\node_modules\\discord.js\\src\\managers\\MessageManager.js:111:18)\n    at async TextChannel.bulkDelete (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\node_modules\\discord.js\\src\\structures\\interfaces\\TextBasedChannel.js:315:20)\n    at async Object.execute (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\commands\\core\\clear.js:21:9)\n    at async Object.execute (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\events\\interactionCreate.js:16:13)' | 
+03:55:18 | Info | '' | 
+03:55:18 | Info | '[0/3] Initialisation du bot' | 
+03:55:18 | Info | '[1/3] Chargement des commandes ' | 
+03:55:18 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+03:55:18 | Info | '[CMD] Commande setsound chargée avec succès' | 
+03:55:18 | Info | '[CMD] Commande ping chargée avec succès' | 
+03:55:18 | Info | '[CMD] Commande clear chargée avec succès' | 
+03:55:18 | Info | '[CMD] Commande stats chargée avec succès' | 
+03:55:18 | Info | '[2/3] Chargement des Events' | 
+03:55:18 | Info | '[CMD] Commande reset chargée avec succès' | 
+03:55:18 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:55:18 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:55:18 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:55:18 | Info | '[CMD] Chargement des commandes terminé' | 
+03:55:18 | Info | '[DB] Chargement de la base de donnée' | 
+03:55:18 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:55:18 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:55:18 | Info | '[EVT] Event ready chargé avec succès' | 
+03:55:18 | Info | '[EVT] Chargement des events terminé' | 
+03:55:19 | Info | '[DB] Base de donnée chargée avec succès' | 
+03:55:20 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+03:55:24 | Error | 'Erreur lors de l\'exécution de la commande clear' | 
+03:55:24 | Error | 'DiscordAPIError[50035]: Invalid Form Body\nlimit[NUMBER_TYPE_MAX]: int value should be less than or equal to 100.\n    at handleErrors (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\node_modules\\@discordjs\\rest\\dist\\index.js:687:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\node_modules\\@discordjs\\rest\\dist\\index.js:1072:23)\n    at async SequentialHandler.queueRequest (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\node_modules\\@discordjs\\rest\\dist\\index.js:913:14)\n    at async _REST.request (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\node_modules\\@discordjs\\rest\\dist\\index.js:1218:22)\n    at async GuildMessageManager._fetchMany (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\node_modules\\discord.js\\src\\managers\\MessageManager.js:111:18)\n    at async TextChannel.bulkDelete (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\node_modules\\discord.js\\src\\structures\\interfaces\\TextBasedChannel.js:315:20)\n    at async Object.execute (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\commands\\core\\clear.js:24:9)\n    at async Object.execute (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\events\\interactionCreate.js:16:13)' | 
+03:56:22 | Info | '' | 
+03:56:22 | Info | '[1/3] Chargement des commandes ' | 
+03:56:22 | Info | '[0/3] Initialisation du bot' | 
+03:56:22 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+03:56:22 | Info | '[CMD] Commande reset chargée avec succès' | 
+03:56:22 | Info | '[CMD] Commande clear chargée avec succès' | 
+03:56:22 | Info | '[CMD] Commande setsound chargée avec succès' | 
+03:56:23 | Info | '[CMD] Commande stats chargée avec succès' | 
+03:56:22 | Info | '[CMD] Commande ping chargée avec succès' | 
+03:56:23 | Info | '[CMD] Chargement des commandes terminé' | 
+03:56:23 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:56:23 | Info | '[2/3] Chargement des Events' | 
+03:56:23 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:56:23 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:56:23 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:56:23 | Info | '[EVT] Event ready chargé avec succès' | 
+03:56:23 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:56:23 | Info | '[DB] Chargement de la base de donnée' | 
+03:56:23 | Info | '[EVT] Chargement des events terminé' | 
+03:56:23 | Info | '[DB] Base de donnée chargée avec succès' | 
+03:56:24 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+03:56:31 | Info | 'La commande clear a été exécutée par xeit0w' | 
+03:56:37 | Error | 'Erreur lors de l\'exécution de la commande clear' | 
+03:56:37 | Error | 'DiscordAPIError[50035]: Invalid Form Body\nlimit[NUMBER_TYPE_MAX]: int value should be less than or equal to 100.\n    at handleErrors (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\node_modules\\@discordjs\\rest\\dist\\index.js:687:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\node_modules\\@discordjs\\rest\\dist\\index.js:1072:23)\n    at async SequentialHandler.queueRequest (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\node_modules\\@discordjs\\rest\\dist\\index.js:913:14)\n    at async _REST.request (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\node_modules\\@discordjs\\rest\\dist\\index.js:1218:22)\n    at async GuildMessageManager._fetchMany (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\node_modules\\discord.js\\src\\managers\\MessageManager.js:111:18)\n    at async TextChannel.bulkDelete (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\node_modules\\discord.js\\src\\structures\\interfaces\\TextBasedChannel.js:315:20)\n    at async Object.execute (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\commands\\core\\clear.js:24:9)\n    at async Object.execute (C:\\Users\\rosen\\CLionProjects\\js\\murlockjs\\events\\interactionCreate.js:16:13)' | 
+03:56:54 | Info | '' | 
+03:56:54 | Info | '[1/3] Chargement des commandes ' | 
+03:56:54 | Info | '[0/3] Initialisation du bot' | 
+03:56:54 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+03:56:54 | Info | '[CMD] Commande clear chargée avec succès' | 
+03:56:54 | Info | '[CMD] Commande ping chargée avec succès' | 
+03:56:54 | Info | '[CMD] Commande setsound chargée avec succès' | 
+03:56:54 | Info | '[CMD] Commande reset chargée avec succès' | 
+03:56:54 | Info | '[CMD] Chargement des commandes terminé' | 
+03:56:54 | Info | '[CMD] Commande stats chargée avec succès' | 
+03:56:54 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:56:54 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:56:54 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:56:54 | Info | '[DB] Chargement de la base de donnée' | 
+03:56:54 | Info | '[EVT] Event ready chargé avec succès' | 
+03:56:54 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:56:54 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:56:54 | Info | '[2/3] Chargement des Events' | 
+03:56:54 | Info | '[EVT] Chargement des events terminé' | 
+03:56:55 | Info | '[DB] Base de donnée chargée avec succès' | 
+03:56:55 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+03:58:23 | Info | 'La commande setsound a été exécutée par xeit0w' | 
+04:00:50 | Info | 'La commande clear a été exécutée par xeit0w' | 
+04:01:07 | Info | 'La commande clear a été exécutée par xeit0w' | 
+17:46:31 | Info | '' | 
+17:46:31 | Info | '[0/3] Initialisation du bot' | 
+17:46:31 | Info | '[1/3] Chargement des commandes ' | 
+17:46:31 | Info | '[CMD] Commande clear chargée avec succès' | 
+17:46:31 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+17:46:31 | Info | '[CMD] Commande ping chargée avec succès' | 
+17:46:31 | Info | '[CMD] Commande reset chargée avec succès' | 
+17:46:31 | Info | '[CMD] Commande setsound chargée avec succès' | 
+17:46:32 | Info | '[CMD] Commande stats chargée avec succès' | 
+17:46:32 | Info | '[CMD] Chargement des commandes terminé' | 
+17:46:32 | Info | '[2/3] Chargement des Events' | 
+17:46:32 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+17:46:32 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+17:46:32 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+17:46:32 | Info | '[DB] Chargement de la base de donnée' | 
+17:46:32 | Info | '[EVT] Event ready chargé avec succès' | 
+17:46:32 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+17:46:32 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+17:46:32 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+17:46:32 | Info | '[EVT] Chargement des events terminé' | 
+17:46:33 | Info | '[DB] Base de donnée chargée avec succès' | 
+17:46:33 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+17:47:07 | Info | 'La commande setsound a été exécutée par xeit0w' | 
+17:48:17 | Info | 'La commande stats a été exécutée par xeit0w' | 
+17:48:24 | Error | 'Erreur lors de l\'exécution de la commande stats' | 
+17:48:24 | Error | 'TypeError: Cannot read properties of null (reading \'get\')\n    at Object.execute (/home/discord-bot/js/murlock/commands/murlock/stats.js:21:30)\n    at async Object.execute (/home/discord-bot/js/murlock/events/interactionCreate.js:16:13)' | 
+17:55:15 | Info | 'La commande stats a été exécutée par xeit0w' | 
+19:34:28 | Info | '' | 
+19:34:28 | Info | '[0/3] Initialisation du bot' | 
+19:34:28 | Info | '[1/3] Chargement des commandes ' | 
+19:34:28 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+19:34:28 | Info | '[CMD] Commande ping chargée avec succès' | 
+19:34:28 | Info | '[CMD] Commande clear chargée avec succès' | 
+19:34:28 | Info | '[CMD] Commande setsound chargée avec succès' | 
+19:34:28 | Info | '[CMD] Commande stats chargée avec succès' | 
+19:34:28 | Info | '[CMD] Commande reset chargée avec succès' | 
+19:34:28 | Info | '[CMD] Chargement des commandes terminé' | 
+19:34:28 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+19:34:28 | Info | '[2/3] Chargement des Events' | 
+19:34:28 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+19:34:28 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+19:34:28 | Info | '[DB] Chargement de la base de donnée' | 
+19:34:28 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+19:34:28 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+19:34:28 | Info | '[EVT] Chargement des events terminé' | 
+19:34:28 | Info | '[EVT] Event ready chargé avec succès' | 
+19:34:28 | Info | '[DB] Base de donnée chargée avec succès' | 
+19:34:29 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+19:34:33 | Info | 'xeit0w a été murlocké avec succès' | 
+19:34:43 | Info | '' | 
+19:34:43 | Info | '[0/3] Initialisation du bot' | 
+19:34:43 | Info | '[1/3] Chargement des commandes ' | 
+19:34:43 | Info | '[CMD] Commande clear chargée avec succès' | 
+19:34:43 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+19:34:43 | Info | '[CMD] Commande ping chargée avec succès' | 
+19:34:43 | Info | '[CMD] Commande reset chargée avec succès' | 
+19:34:43 | Info | '[CMD] Commande setsound chargée avec succès' | 
+19:34:43 | Info | '[CMD] Commande stats chargée avec succès' | 
+19:34:43 | Info | '[CMD] Chargement des commandes terminé' | 
+19:34:43 | Info | '[2/3] Chargement des Events' | 
+19:34:43 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+19:34:43 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+19:34:43 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+19:34:43 | Info | '[DB] Chargement de la base de donnée' | 
+19:34:43 | Info | '[EVT] Event ready chargé avec succès' | 
+19:34:43 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+19:34:43 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+19:34:43 | Info | '[EVT] Chargement des events terminé' | 
+19:34:43 | Info | '[DB] Base de donnée chargée avec succès' | 
+19:34:44 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+19:36:05 | Info | 'xeit0w a été murlocké avec succès' | 
+20:00:19 | Info | '' | 
+20:00:19 | Info | '[0/3] Initialisation du bot' | 
+20:00:19 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+20:00:19 | Info | '[1/3] Chargement des commandes ' | 
+20:00:19 | Info | '[CMD] Commande clear chargée avec succès' | 
+20:00:19 | Info | '[CMD] Commande ping chargée avec succès' | 
+20:00:19 | Info | '[CMD] Commande reset chargée avec succès' | 
+20:00:19 | Info | '[CMD] Commande setsound chargée avec succès' | 
+20:00:19 | Info | '[CMD] Commande stats chargée avec succès' | 
+20:00:19 | Info | '[CMD] Chargement des commandes terminé' | 
+20:00:19 | Info | '[2/3] Chargement des Events' | 
+20:00:19 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+20:00:19 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+20:00:19 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+20:00:19 | Info | '[DB] Chargement de la base de donnée' | 
+20:00:19 | Info | '[EVT] Event ready chargé avec succès' | 
+20:00:19 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+20:00:19 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+20:00:19 | Info | '[EVT] Chargement des events terminé' | 
+20:00:20 | Info | '[DB] Base de donnée chargée avec succès' | 
+20:00:20 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+20:00:58 | Info | '' | 
+20:00:58 | Info | '[0/3] Initialisation du bot' | 
+20:00:58 | Info | '[1/3] Chargement des commandes ' | 
+20:00:58 | Info | '[CMD] Commande clear chargée avec succès' | 
+20:00:58 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+20:00:58 | Info | '[CMD] Commande ping chargée avec succès' | 
+20:00:58 | Info | '[CMD] Commande reset chargée avec succès' | 
+20:00:58 | Info | '[CMD] Commande setsound chargée avec succès' | 
+20:00:58 | Info | '[CMD] Commande stats chargée avec succès' | 
+20:00:58 | Info | '[CMD] Chargement des commandes terminé' | 
+20:00:58 | Info | '[2/3] Chargement des Events' | 
+20:00:58 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+20:00:58 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+20:00:58 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+20:00:58 | Info | '[DB] Chargement de la base de donnée' | 
+20:00:58 | Info | '[EVT] Event ready chargé avec succès' | 
+20:00:58 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+20:00:58 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+20:00:58 | Info | '[EVT] Chargement des events terminé' | 
+20:00:59 | Info | '[DB] Base de donnée chargée avec succès' | 
+20:00:59 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+20:01:30 | Info | 'louisnemo a été murlocké avec succès' | 
+23:48:37 | Info | 'Vous devez attendre 30 minutes avant de pouvoir gagner de l\'xp à nouveau !' | 
+23:48:37 | Info | 'louisnemo a été murlocké avec succès' | 

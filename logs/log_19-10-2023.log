@@ -1,0 +1,1262 @@
+02:33:17 | Info | '' | 
+02:33:17 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+02:33:17 | Info | '[0/3] Initialisation du bot' | 
+02:33:17 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+02:33:17 | Info | '[CMD] Commande ping chargée avec succès' | 
+02:33:17 | Info | '[CMD] Commande reset chargée avec succès' | 
+02:33:17 | Info | '[CMD] Chargement des commandes terminé' | 
+02:33:17 | Info | '[CMD] Commande setsound chargée avec succès' | 
+02:33:17 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+02:33:17 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:33:17 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:33:17 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:33:17 | Info | '[EVT] Event ready chargé avec succès' | 
+02:33:17 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+02:33:17 | Info | '[EVT] Chargement des events terminé' | 
+02:33:17 | Info | '[1/1] Chargement de la base de donnée ........................................................................' | 
+02:33:17 | Info | '[DB] Base de donnée chargée avec succès' | 
+02:35:27 | Info | '' | 
+02:35:27 | Info | '[0/3] Initialisation du bot' | 
+02:35:27 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+02:35:27 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+02:35:27 | Info | '[CMD] Commande ping chargée avec succès' | 
+02:35:27 | Info | '[CMD] Commande setsound chargée avec succès' | 
+02:35:27 | Info | '[CMD] Chargement des commandes terminé' | 
+02:35:27 | Info | '[CMD] Commande reset chargée avec succès' | 
+02:35:27 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:35:27 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+02:35:27 | Info | '[EVT] Event ready chargé avec succès' | 
+02:35:27 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:35:27 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:35:27 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+02:35:27 | Info | '[DB] Chargement de la base de donnée ........................................................................' | 
+02:35:27 | Info | '[EVT] Chargement des events terminé' | 
+02:35:27 | Info | '[DB] Base de donnée chargée avec succès' | 
+02:35:53 | Info | '' | 
+02:35:53 | Info | '[0/3] Initialisation du bot' | 
+02:35:53 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+02:35:53 | Info | '[CMD] Commande ping chargée avec succès' | 
+02:35:53 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+02:35:53 | Info | '[CMD] Chargement des commandes terminé' | 
+02:35:53 | Info | '[CMD] Commande reset chargée avec succès' | 
+02:35:53 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:35:53 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+02:35:53 | Info | '[EVT] Event ready chargé avec succès' | 
+02:35:53 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:35:53 | Info | '[CMD] Commande setsound chargée avec succès' | 
+02:35:53 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:35:53 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+02:35:53 | Info | '[DB] Chargement de la base de donnée ........................................................................' | 
+02:35:53 | Info | '[EVT] Chargement des events terminé' | 
+02:35:53 | Info | '[DB] Base de donnée chargée avec succès' | 
+02:36:23 | Info | '' | 
+02:36:23 | Info | '[0/3] Initialisation du bot' | 
+02:36:23 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+02:36:23 | Info | '[CMD] Commande ping chargée avec succès' | 
+02:36:23 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+02:36:23 | Info | '[CMD] Chargement des commandes terminé' | 
+02:36:23 | Info | '[CMD] Commande reset chargée avec succès' | 
+02:36:23 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+02:36:23 | Info | '[CMD] Commande setsound chargée avec succès' | 
+02:36:23 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:36:23 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:36:23 | Info | '[EVT] Event ready chargé avec succès' | 
+02:36:23 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+02:36:23 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:36:23 | Info | '[DB] Chargement de la base de donnée ........................................................................' | 
+02:36:23 | Info | '[DB] Base de donnée chargée avec succès' | 
+02:36:23 | Info | '[EVT] Chargement des events terminé' | 
+02:39:17 | Info | '' | 
+02:39:17 | Info | '[0/3] Initialisation du bot' | 
+02:39:17 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+02:39:17 | Info | '[CMD] Commande ping chargée avec succès' | 
+02:39:17 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+02:39:17 | Info | '[CMD] Commande reset chargée avec succès' | 
+02:39:17 | Info | '[CMD] Chargement des commandes terminé' | 
+02:39:17 | Info | '[CMD] Commande setsound chargée avec succès' | 
+02:39:17 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:39:17 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+02:39:17 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:39:17 | Info | '[EVT] Event ready chargé avec succès' | 
+02:39:17 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:39:17 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+02:39:17 | Info | '[DB] Chargement de la base de donnée ........................................................................' | 
+02:39:17 | Info | '[EVT] Chargement des events terminé' | 
+02:39:17 | Info | '[DB] Base de donnée chargée avec succès' | 
+02:39:18 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+02:42:01 | Info | '' | 
+02:42:01 | Info | '[0/3] Initialisation du bot' | 
+02:42:01 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+02:42:01 | Info | '[CMD] Commande ping chargée avec succès' | 
+02:42:01 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+02:42:01 | Info | '[CMD] Commande setsound chargée avec succès' | 
+02:42:01 | Info | '[CMD] Commande reset chargée avec succès' | 
+02:42:01 | Info | '[CMD] Chargement des commandes terminé' | 
+02:42:01 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:42:01 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:42:01 | Info | '[EVT] Event ready chargé avec succès' | 
+02:42:01 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:42:01 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+02:42:01 | Info | '[EVT] Chargement des events terminé' | 
+02:42:01 | Info | '[DB] Chargement de la base de donnée ........................................................................' | 
+02:42:01 | Info | '[DB] Base de donnée chargée avec succès' | 
+02:42:01 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+02:42:23 | Info | '' | 
+02:42:23 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+02:42:23 | Info | '[0/3] Initialisation du bot' | 
+02:42:23 | Info | '[CMD] Commande ping chargée avec succès' | 
+02:42:23 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+02:42:23 | Info | '[CMD] Chargement des commandes terminé' | 
+02:42:23 | Info | '[CMD] Commande reset chargée avec succès' | 
+02:42:23 | Info | '[CMD] Commande setsound chargée avec succès' | 
+02:42:23 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:42:23 | Info | '[EVT] Event ready chargé avec succès' | 
+02:42:23 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+02:42:23 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:42:23 | Info | '[EVT] Chargement des events terminé' | 
+02:42:23 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+02:42:23 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:42:23 | Info | '[DB] Chargement de la base de donnée ........................................................................' | 
+02:42:23 | Info | '[DB] Base de donnée chargée avec succès' | 
+02:43:45 | Info | '' | 
+02:43:45 | Info | '[0/3] Initialisation du bot' | 
+02:43:45 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+02:43:45 | Info | '[CMD] Commande ping chargée avec succès' | 
+02:43:45 | Info | '[CMD] Commande setsound chargée avec succès' | 
+02:43:45 | Info | '[CMD] Commande reset chargée avec succès' | 
+02:43:45 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+02:43:45 | Info | '[CMD] Chargement des commandes terminé' | 
+02:43:45 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+02:43:45 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:43:45 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:43:45 | Info | '[EVT] Event ready chargé avec succès' | 
+02:43:45 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+02:43:45 | Info | '[EVT] Chargement des events terminé' | 
+02:43:45 | Info | '[DB] Chargement de la base de donnée ........................................................................' | 
+02:43:45 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:43:45 | Info | '[DB] Base de donnée chargée avec succès' | 
+02:43:46 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+02:44:00 | Info | '' | 
+02:44:00 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+02:44:00 | Info | '[CMD] Commande ping chargée avec succès' | 
+02:44:00 | Info | '[0/3] Initialisation du bot' | 
+02:44:00 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+02:44:00 | Info | '[CMD] Chargement des commandes terminé' | 
+02:44:00 | Info | '[CMD] Commande reset chargée avec succès' | 
+02:44:00 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:44:00 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+02:44:00 | Info | '[CMD] Commande setsound chargée avec succès' | 
+02:44:00 | Info | '[EVT] Event ready chargé avec succès' | 
+02:44:00 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:44:00 | Info | '[EVT] Chargement des events terminé' | 
+02:44:00 | Info | '[DB] Chargement de la base de donnée ........................................................................' | 
+02:44:00 | Info | '[DB] Base de donnée chargée avec succès' | 
+02:44:00 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+02:44:00 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:44:01 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+02:44:31 | Info | '' | 
+02:44:31 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+02:44:31 | Info | '[0/3] Initialisation du bot' | 
+02:44:31 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+02:44:31 | Info | '[CMD] Commande setsound chargée avec succès' | 
+02:44:31 | Info | '[CMD] Commande ping chargée avec succès' | 
+02:44:31 | Info | '[CMD] Commande reset chargée avec succès' | 
+02:44:31 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:44:31 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+02:44:31 | Info | '[EVT] Event ready chargé avec succès' | 
+02:44:31 | Info | '[CMD] Chargement des commandes terminé' | 
+02:44:31 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:44:31 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+02:44:31 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:44:31 | Info | '[DB] Chargement de la base de donnée ........................................................................' | 
+02:44:31 | Info | '[EVT] Chargement des events terminé' | 
+02:44:31 | Info | '[DB] Base de donnée chargée avec succès' | 
+02:44:32 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+02:45:59 | Info | '' | 
+02:45:59 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+02:45:59 | Info | '[0/3] Initialisation du bot' | 
+02:45:59 | Info | '[CMD] Commande ping chargée avec succès' | 
+02:45:59 | Info | '[CMD] Commande setsound chargée avec succès' | 
+02:45:59 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+02:45:59 | Info | '[CMD] Commande reset chargée avec succès' | 
+02:45:59 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+02:45:59 | Info | '[CMD] Chargement des commandes terminé' | 
+02:45:59 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:45:59 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:45:59 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:45:59 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+02:45:59 | Info | '[EVT] Chargement des events terminé' | 
+02:45:59 | Info | '[DB] Chargement de la base de donnée ........................................................................' | 
+02:45:59 | Info | '[EVT] Event ready chargé avec succès' | 
+02:45:59 | Info | '[DB] Base de donnée chargée avec succès' | 
+02:46:25 | Info | '' | 
+02:46:25 | Info | '[0/3] Initialisation du bot' | 
+02:46:25 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+02:46:25 | Info | '[CMD] Commande ping chargée avec succès' | 
+02:46:25 | Info | '[CMD] Commande setsound chargée avec succès' | 
+02:46:25 | Info | '[CMD] Commande reset chargée avec succès' | 
+02:46:25 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+02:46:25 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+02:46:25 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:46:25 | Info | '[CMD] Chargement des commandes terminé' | 
+02:46:25 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:46:25 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+02:46:25 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:46:25 | Info | '[EVT] Event ready chargé avec succès' | 
+02:46:25 | Info | '[DB] Chargement de la base de donnée ........................................................................' | 
+02:46:25 | Info | '[EVT] Chargement des events terminé' | 
+02:46:25 | Info | '[DB] Base de donnée chargée avec succès' | 
+02:46:26 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+02:48:07 | Info | '' | 
+02:48:07 | Info | '[0/3] Initialisation du bot' | 
+02:48:07 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+02:48:07 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+02:48:07 | Info | '[CMD] Commande ping chargée avec succès' | 
+02:48:07 | Info | '[CMD] Commande reset chargée avec succès' | 
+02:48:07 | Info | '[CMD] Commande setsound chargée avec succès' | 
+02:48:07 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+02:48:07 | Info | '[CMD] Chargement des commandes terminé' | 
+02:48:07 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:48:07 | Info | '[EVT] Event ready chargé avec succès' | 
+02:48:07 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:48:07 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+02:48:07 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:48:07 | Info | '[DB] Chargement de la base de donnée ........................................................................' | 
+02:48:07 | Info | '[EVT] Chargement des events terminé' | 
+02:48:07 | Info | '[DB] Base de donnée chargée avec succès' | 
+02:48:08 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+02:58:22 | Info | '' | 
+02:58:22 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+02:58:22 | Info | '[0/3] Initialisation du bot' | 
+02:58:22 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+02:58:22 | Info | '[CMD] Commande ping chargée avec succès' | 
+02:58:22 | Info | '[CMD] Commande reset chargée avec succès' | 
+02:58:22 | Info | '[CMD] Chargement des commandes terminé' | 
+02:58:22 | Info | '[CMD] Commande setsound chargée avec succès' | 
+02:58:22 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+02:58:22 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:58:22 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:58:22 | Info | '[EVT] Event ready chargé avec succès' | 
+02:58:22 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:58:22 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+02:58:22 | Info | '[EVT] Chargement des events terminé' | 
+02:58:22 | Info | '[DB] Chargement de la base de donnée ........................................................................' | 
+02:58:22 | Info | '[DB] Base de donnée chargée avec succès' | 
+02:58:22 | Info | '[DB] Chargement des utilisateurs ...........................................................................' | 
+02:58:23 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+02:59:25 | Info | '' | 
+02:59:25 | Info | '[0/3] Initialisation du bot' | 
+02:59:25 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+02:59:25 | Info | '[CMD] Commande ping chargée avec succès' | 
+02:59:25 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+02:59:25 | Info | '[CMD] Chargement des commandes terminé' | 
+02:59:25 | Info | '[CMD] Commande reset chargée avec succès' | 
+02:59:25 | Info | '[CMD] Commande setsound chargée avec succès' | 
+02:59:25 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:59:25 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+02:59:25 | Info | '[EVT] Event ready chargé avec succès' | 
+02:59:25 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:59:25 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+02:59:25 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+02:59:25 | Info | '[EVT] Chargement des events terminé' | 
+02:59:25 | Info | '[DB] Chargement de la base de donnée ........................................................................' | 
+02:59:25 | Info | '[DB] Chargement des utilisateurs ...........................................................................' | 
+02:59:25 | Info | '[DB] Base de donnée chargée avec succès' | 
+02:59:26 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+03:00:17 | Info | '' | 
+03:00:17 | Info | '[0/3] Initialisation du bot' | 
+03:00:17 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+03:00:17 | Info | '[CMD] Commande ping chargée avec succès' | 
+03:00:17 | Info | '[CMD] Chargement des commandes terminé' | 
+03:00:17 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+03:00:17 | Info | '[CMD] Commande setsound chargée avec succès' | 
+03:00:17 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:00:17 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+03:00:17 | Info | '[EVT] Event ready chargé avec succès' | 
+03:00:17 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:00:17 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:00:17 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:00:17 | Info | '[EVT] Chargement des events terminé' | 
+03:00:17 | Info | '[DB] Chargement de la base de donnée ........................................................................' | 
+03:00:17 | Info | '[CMD] Commande reset chargée avec succès' | 
+03:00:17 | Info | '[DB] Chargement des utilisateurs ...........................................................................' | 
+03:00:17 | Info | '[DB] Base de donnée chargée avec succès' | 
+03:00:18 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+03:00:30 | Info | '' | 
+03:00:30 | Info | '[0/3] Initialisation du bot' | 
+03:00:30 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+03:00:30 | Info | '[CMD] Commande ping chargée avec succès' | 
+03:00:30 | Info | '[CMD] Commande setsound chargée avec succès' | 
+03:00:30 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+03:00:30 | Info | '[CMD] Chargement des commandes terminé' | 
+03:00:30 | Info | '[CMD] Commande reset chargée avec succès' | 
+03:00:30 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+03:00:30 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:00:30 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:00:30 | Info | '[EVT] Event ready chargé avec succès' | 
+03:00:30 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:00:30 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:00:30 | Info | '[DB] Chargement de la base de donnée ........................................................................' | 
+03:00:30 | Info | '[EVT] Chargement des events terminé' | 
+03:00:30 | Info | '[DB] Base de donnée chargée avec succès' | 
+03:00:30 | Info | '[DB] Chargement des utilisateurs ...........................................................................' | 
+03:00:31 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+03:01:21 | Info | '' | 
+03:01:21 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+03:01:21 | Info | '[CMD] Commande ping chargée avec succès' | 
+03:01:21 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+03:01:21 | Info | '[0/3] Initialisation du bot' | 
+03:01:21 | Info | '[CMD] Commande reset chargée avec succès' | 
+03:01:21 | Info | '[CMD] Commande setsound chargée avec succès' | 
+03:01:21 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+03:01:21 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:01:21 | Info | '[EVT] Event ready chargé avec succès' | 
+03:01:21 | Info | '[CMD] Chargement des commandes terminé' | 
+03:01:21 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:01:21 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:01:21 | Info | '[EVT] Chargement des events terminé' | 
+03:01:21 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:01:21 | Info | '[DB] Chargement de la base de donnée ........................................................................' | 
+03:01:21 | Info | '[DB] Base de donnée chargée avec succès' | 
+03:01:21 | Info | '[DB] Chargement des utilisateurs ...........................................................................' | 
+03:01:21 | Error | 'Cannot read properties of undefined (reading \'members\')' | 
+03:01:21 | Error | '[DB] Impossible de se connecter à la base de donnée' | 
+03:01:22 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+03:02:38 | Info | '' | 
+03:02:38 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+03:02:38 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+03:02:38 | Info | '[0/3] Initialisation du bot' | 
+03:02:38 | Info | '[CMD] Commande ping chargée avec succès' | 
+03:02:38 | Info | '[CMD] Commande reset chargée avec succès' | 
+03:02:38 | Info | '[CMD] Commande setsound chargée avec succès' | 
+03:02:38 | Info | '[CMD] Chargement des commandes terminé' | 
+03:02:38 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:02:38 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+03:02:38 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:02:38 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:02:38 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:02:38 | Info | '[EVT] Chargement des events terminé' | 
+03:02:38 | Info | '[DB] Chargement de la base de donnée ........................................................................' | 
+03:02:38 | Info | '[EVT] Event ready chargé avec succès' | 
+03:02:38 | Info | '[DB] Base de donnée chargée avec succès' | 
+03:02:38 | Info | '[DB] Chargement des utilisateurs ...........................................................................' | 
+03:02:39 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+03:03:00 | Info | '' | 
+03:03:00 | Info | '[0/3] Initialisation du bot' | 
+03:03:00 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+03:03:00 | Info | '[CMD] Commande ping chargée avec succès' | 
+03:03:00 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+03:03:00 | Info | '[CMD] Commande setsound chargée avec succès' | 
+03:03:00 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+03:03:00 | Info | '[CMD] Chargement des commandes terminé' | 
+03:03:00 | Info | '[CMD] Commande reset chargée avec succès' | 
+03:03:00 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:03:00 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:03:00 | Info | '[EVT] Event ready chargé avec succès' | 
+03:03:00 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:03:00 | Info | '[DB] Chargement de la base de donnée ........................................................................' | 
+03:03:00 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:03:00 | Info | '[EVT] Chargement des events terminé' | 
+03:03:00 | Info | '[DB] Base de donnée chargée avec succès' | 
+03:03:00 | Info | '[DB] Chargement des utilisateurs ...........................................................................' | 
+03:03:01 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+03:03:13 | Info | '' | 
+03:03:13 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+03:03:13 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+03:03:13 | Info | '[0/3] Initialisation du bot' | 
+03:03:13 | Info | '[CMD] Commande reset chargée avec succès' | 
+03:03:13 | Info | '[CMD] Commande setsound chargée avec succès' | 
+03:03:13 | Info | '[CMD] Commande ping chargée avec succès' | 
+03:03:13 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+03:03:13 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:03:13 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:03:13 | Info | '[CMD] Chargement des commandes terminé' | 
+03:03:13 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:03:13 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:03:13 | Info | '[DB] Chargement de la base de donnée ........................................................................' | 
+03:03:13 | Info | '[EVT] Event ready chargé avec succès' | 
+03:03:13 | Info | '[DB] Base de donnée chargée avec succès' | 
+03:03:13 | Info | '[EVT] Chargement des events terminé' | 
+03:03:13 | Info | '[DB] Chargement des utilisateurs ...........................................................................' | 
+03:03:14 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+03:10:00 | Info | '' | 
+03:10:00 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+03:10:00 | Info | '[0/3] Initialisation du bot' | 
+03:10:00 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+03:10:00 | Info | '[CMD] Commande ping chargée avec succès' | 
+03:10:00 | Info | '[CMD] Commande setsound chargée avec succès' | 
+03:10:00 | Info | '[CMD] Chargement des commandes terminé' | 
+03:10:00 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+03:10:00 | Info | '[CMD] Commande reset chargée avec succès' | 
+03:10:00 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:10:00 | Info | '[EVT] Event ready chargé avec succès' | 
+03:10:00 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:10:00 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+03:10:00 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+03:10:00 | Info | '[DB] Chargement de la base de donnée ........................................................................' | 
+03:10:00 | Info | '[EVT] Chargement des events terminé' | 
+03:10:00 | Info | '[DB] Base de donnée chargée avec succès' | 
+03:10:00 | Info | '[DB] Chargement des utilisateurs ...........................................................................' | 
+03:10:01 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+16:32:23 | Info | 'd_aberggine a été murlocké avec succès' | 
+17:33:57 | Info | 'motisma a été murlocké avec succès' | 
+17:49:53 | Error | 'Erreur lors du murlock de louisnemo' | 
+17:54:15 | Error | 'Erreur lors du murlock de louisnemo' | 
+18:02:32 | Info | 'xeit0w a été murlocké avec succès' | 
+18:05:45 | Info | 'Les roles de undefined ont été changés avec succés' | 
+18:14:02 | Error | 'Erreur lors du murlock de d_aberggine' | 
+18:40:40 | Info | 'booddle a été murlocké avec succès' | 
+18:45:11 | Info | 'louisnemo a été murlocké avec succès' | 
+19:54:13 | Info | 'thahabledemixage a été murlocké avec succès' | 
+21:22:53 | Info | '' | 
+21:22:53 | Info | '[0/3] Initialisation du bot' | 
+21:22:53 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+21:22:53 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+21:22:53 | Info | '[CMD] Commande ping chargée avec succès' | 
+21:22:53 | Info | '[CMD] Commande setsound chargée avec succès' | 
+21:22:53 | Info | '[CMD] Commande reset chargée avec succès' | 
+21:22:53 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+21:22:53 | Info | '[CMD] Chargement des commandes terminé' | 
+21:22:53 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:22:53 | Info | '[EVT] Event ready chargé avec succès' | 
+21:22:53 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:22:53 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:22:53 | Info | '[EVT] Chargement des events terminé' | 
+21:22:53 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+21:22:54 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+21:28:41 | Info | '' | 
+21:28:41 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+21:28:41 | Info | '[0/3] Initialisation du bot' | 
+21:28:41 | Info | '[CMD] Commande ping chargée avec succès' | 
+21:28:41 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+21:28:41 | Info | '[CMD] Commande setsound chargée avec succès' | 
+21:28:41 | Info | '[CMD] Chargement des commandes terminé' | 
+21:28:41 | Info | '[CMD] Commande reset chargée avec succès' | 
+21:28:41 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+21:28:41 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:28:41 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:28:41 | Info | '[EVT] Event ready chargé avec succès' | 
+21:28:41 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:28:41 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+21:28:41 | Info | '[EVT] Chargement des events terminé' | 
+21:28:41 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+21:40:07 | Info | '' | 
+21:40:07 | Info | '[0/3] Initialisation du bot' | 
+21:40:07 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+21:40:07 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+21:40:07 | Info | '[CMD] Commande ping chargée avec succès' | 
+21:40:07 | Info | '[CMD] Commande reset chargée avec succès' | 
+21:40:07 | Info | '[CMD] Commande setsound chargée avec succès' | 
+21:40:07 | Info | '[CMD] Chargement des commandes terminé' | 
+21:40:07 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+21:40:07 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:40:07 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:40:07 | Info | '[EVT] Event ready chargé avec succès' | 
+21:40:07 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:40:07 | Info | '[EVT] Chargement des events terminé' | 
+21:40:07 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+21:40:08 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+21:45:51 | Info | '' | 
+21:45:51 | Info | '[0/3] Initialisation du bot' | 
+21:45:51 | Info | 'MESSAAGE TEMPORAIRE : INITIALISATION DE LA BASE DE DONNEES)' | 
+21:45:51 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+21:45:51 | Info | '[CMD] Commande ping chargée avec succès' | 
+21:45:51 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+21:45:51 | Info | '[CMD] Commande reset chargée avec succès' | 
+21:45:51 | Info | '[CMD] Commande setsound chargée avec succès' | 
+21:45:51 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+21:45:51 | Info | '[CMD] Chargement des commandes terminé' | 
+21:45:51 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:45:51 | Info | '[EVT] Event ready chargé avec succès' | 
+21:45:51 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:45:51 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:45:51 | Info | '[EVT] Chargement des events terminé' | 
+21:45:51 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+21:45:52 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+21:46:00 | Info | '' | 
+21:46:00 | Info | '[0/3] Initialisation du bot' | 
+21:46:00 | Info | 'MESSAAGE TEMPORAIRE : INITIALISATION DE LA BASE DE DONNEES)' | 
+21:46:00 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+21:46:00 | Info | '[CMD] Commande setsound chargée avec succès' | 
+21:46:00 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+21:46:00 | Info | '[CMD] Commande reset chargée avec succès' | 
+21:46:00 | Info | '[CMD] Commande ping chargée avec succès' | 
+21:46:00 | Info | '[CMD] Chargement des commandes terminé' | 
+21:46:00 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+21:46:00 | Info | '[EVT] Event ready chargé avec succès' | 
+21:46:00 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:46:00 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:46:00 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+21:46:00 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:46:00 | Info | '[EVT] Chargement des events terminé' | 
+21:46:01 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+21:58:50 | Info | '' | 
+21:58:50 | Info | '[0/3] Initialisation du bot' | 
+21:58:50 | Info | 'MESSAAGE TEMPORAIRE : INITIALISATION DE LA BASE DE DONNEES)' | 
+21:58:50 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+21:58:50 | Info | '[CMD] Commande reset chargée avec succès' | 
+21:58:50 | Info | '[CMD] Commande setsound chargée avec succès' | 
+21:58:50 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+21:58:50 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+21:58:50 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:58:50 | Info | '[CMD] Chargement des commandes terminé' | 
+21:58:50 | Info | '[CMD] Commande ping chargée avec succès' | 
+21:58:50 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:58:50 | Info | '[EVT] Event ready chargé avec succès' | 
+21:58:50 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+21:58:50 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:58:50 | Info | '[EVT] Chargement des events terminé' | 
+21:58:51 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+22:02:34 | Info | '' | 
+22:02:34 | Info | '[0/3] Initialisation du bot' | 
+22:02:35 | Info | 'MESSAAGE TEMPORAIRE : INITIALISATION DE LA BASE DE DONNEES)' | 
+22:02:35 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:02:35 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:02:35 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:02:35 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:02:35 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:02:35 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:02:35 | Info | '[CMD] Chargement des commandes terminé' | 
+22:02:35 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:02:35 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:02:35 | Info | '[EVT] Event ready chargé avec succès' | 
+22:02:35 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:02:35 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+22:02:35 | Info | '[EVT] Chargement des events terminé' | 
+22:02:36 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+22:03:57 | Info | '' | 
+22:03:57 | Info | '[0/3] Initialisation du bot' | 
+22:03:57 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:03:57 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:03:57 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:03:57 | Info | 'MESSAAGE TEMPORAIRE : INITIALISATION DE LA BASE DE DONNEES)' | 
+22:03:57 | Info | '[CMD] Chargement des commandes terminé' | 
+22:03:57 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:03:57 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:03:57 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:03:57 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:03:57 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:03:57 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:03:57 | Info | '[EVT] Event ready chargé avec succès' | 
+22:03:57 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+22:03:57 | Info | '[EVT] Chargement des events terminé' | 
+22:03:58 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+22:06:05 | Info | '' | 
+22:06:05 | Info | '[0/3] Initialisation du bot' | 
+22:06:05 | Info | 'MESSAAGE TEMPORAIRE : INITIALISATION DE LA BASE DE DONNEES)' | 
+22:06:05 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:06:05 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:06:05 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:06:05 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:06:05 | Info | '[CMD] Chargement des commandes terminé' | 
+22:06:05 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:06:05 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:06:05 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:06:05 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:06:05 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:06:05 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+22:06:05 | Info | '[EVT] Event ready chargé avec succès' | 
+22:06:05 | Info | '[EVT] Chargement des events terminé' | 
+22:06:06 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+22:06:49 | Info | '' | 
+22:06:49 | Info | '[0/3] Initialisation du bot' | 
+22:06:49 | Info | 'MESSAAGE TEMPORAIRE : INITIALISATION DE LA BASE DE DONNEES)' | 
+22:06:49 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:06:49 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:06:49 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:06:49 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:06:49 | Info | '[CMD] Chargement des commandes terminé' | 
+22:06:49 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:06:49 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:06:49 | Info | '[EVT] Event ready chargé avec succès' | 
+22:06:49 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:06:49 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+22:06:49 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:06:49 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:06:49 | Info | '[EVT] Chargement des events terminé' | 
+22:06:50 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+22:12:32 | Info | '' | 
+22:12:32 | Info | '[0/3] Initialisation du bot' | 
+22:12:32 | Info | 'MESSAAGE TEMPORAIRE : INITIALISATION DE LA BASE DE DONNEES)' | 
+22:12:32 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:12:32 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:12:32 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:12:32 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:12:32 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:12:32 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:12:32 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:12:32 | Info | '[CMD] Chargement des commandes terminé' | 
+22:12:32 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:12:32 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+22:12:32 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:12:32 | Info | '[EVT] Event ready chargé avec succès' | 
+22:12:32 | Info | '[EVT] Chargement des events terminé' | 
+22:12:33 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+22:13:09 | Info | '' | 
+22:13:09 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:13:09 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:13:09 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:13:09 | Info | '[0/3] Initialisation du bot' | 
+22:13:09 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:13:09 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:13:09 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:13:09 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:13:09 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:13:09 | Info | '[CMD] Chargement des commandes terminé' | 
+22:13:09 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:13:09 | Info | '[EVT] Chargement des events terminé' | 
+22:13:09 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+22:13:09 | Info | '[EVT] Event ready chargé avec succès' | 
+22:13:10 | Info | 'MESSAAGE TEMPORAIRE : INITIALISATION DE LA BASE DE DONNEES)' | 
+22:13:10 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+22:13:22 | Info | '' | 
+22:13:22 | Info | '[0/3] Initialisation du bot' | 
+22:13:22 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:13:22 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:13:22 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:13:22 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:13:22 | Info | '[CMD] Chargement des commandes terminé' | 
+22:13:22 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:13:22 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:13:22 | Info | '[EVT] Event ready chargé avec succès' | 
+22:13:22 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:13:22 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:13:22 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+22:13:22 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:13:22 | Info | '[EVT] Chargement des events terminé' | 
+22:13:23 | Info | 'MESSAAGE TEMPORAIRE : INITIALISATION DE LA BASE DE DONNEES)' | 
+22:13:23 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+22:14:42 | Info | '' | 
+22:14:42 | Info | '[0/3] Initialisation du bot' | 
+22:14:42 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:14:42 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:14:42 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:14:42 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:14:42 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:14:42 | Info | '[CMD] Chargement des commandes terminé' | 
+22:14:42 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:14:42 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:14:42 | Info | '[EVT] Event ready chargé avec succès' | 
+22:14:42 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:14:42 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+22:14:42 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:14:42 | Info | '[EVT] Chargement des events terminé' | 
+22:14:44 | Info | 'MESSAAGE TEMPORAIRE : INITIALISATION DE LA BASE DE DONNEES)' | 
+22:14:44 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+22:15:35 | Info | '' | 
+22:15:35 | Info | '[0/3] Initialisation du bot' | 
+22:15:35 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:15:35 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:15:35 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:15:35 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:15:35 | Info | '[CMD] Chargement des commandes terminé' | 
+22:15:35 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:15:35 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:15:35 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:15:35 | Info | '[EVT] Event ready chargé avec succès' | 
+22:15:35 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:15:35 | Info | '[EVT] Chargement des events terminé' | 
+22:15:35 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:15:35 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+22:15:36 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+22:15:36 | Info | 'MESSAAGE TEMPORAIRE : INITIALISATION DE LA BASE DE DONNEES)' | 
+22:19:07 | Info | '' | 
+22:19:07 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:19:07 | Info | '[0/3] Initialisation du bot' | 
+22:19:07 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:19:07 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:19:07 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:19:07 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:19:07 | Info | '[CMD] Chargement des commandes terminé' | 
+22:19:07 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:19:07 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:19:07 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:19:07 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:19:07 | Info | '[EVT] Event ready chargé avec succès' | 
+22:19:07 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+22:19:07 | Info | '[EVT] Chargement des events terminé' | 
+22:19:08 | Info | 'MESSAAGE TEMPORAIRE : INITIALISATION DE LA BASE DE DONNEES)' | 
+22:19:09 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+22:19:35 | Info | '' | 
+22:19:35 | Info | '[0/3] Initialisation du bot' | 
+22:19:35 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:19:35 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:19:35 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:19:35 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:19:35 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:19:35 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:19:35 | Info | '[CMD] Chargement des commandes terminé' | 
+22:19:35 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:19:35 | Info | '[EVT] Event ready chargé avec succès' | 
+22:19:35 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:19:35 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:19:35 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+22:19:35 | Info | '[EVT] Chargement des events terminé' | 
+22:19:36 | Info | 'MESSAAGE TEMPORAIRE : INITIALISATION DE LA BASE DE DONNEES)' | 
+22:19:37 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+22:20:09 | Info | '' | 
+22:20:09 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:20:09 | Info | '[0/3] Initialisation du bot' | 
+22:20:09 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:20:09 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:20:09 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:20:09 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:20:09 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:20:09 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:20:09 | Info | '[CMD] Chargement des commandes terminé' | 
+22:20:09 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:20:09 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+22:20:09 | Info | '[EVT] Event ready chargé avec succès' | 
+22:20:09 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:20:09 | Info | '[EVT] Chargement des events terminé' | 
+22:20:09 | Info | 'MESSAAGE TEMPORAIRE : INITIALISATION DE LA BASE DE DONNEES)' | 
+22:20:10 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+22:20:27 | Info | '' | 
+22:20:27 | Info | '[0/3] Initialisation du bot' | 
+22:20:27 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:20:27 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:20:27 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:20:27 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:20:27 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:20:27 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:20:27 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:20:27 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:20:27 | Info | '[EVT] Event ready chargé avec succès' | 
+22:20:27 | Info | '[CMD] Chargement des commandes terminé' | 
+22:20:27 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:20:27 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+22:20:27 | Info | '[EVT] Chargement des events terminé' | 
+22:20:28 | Info | 'MESSAAGE TEMPORAIRE : INITIALISATION DE LA BASE DE DONNEES)' | 
+22:20:28 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+22:23:49 | Info | '' | 
+22:23:49 | Info | '[0/3] Initialisation du bot' | 
+22:23:49 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:23:49 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:23:49 | Info | '[CMD] Chargement des commandes terminé' | 
+22:23:49 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:23:49 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:23:49 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:23:49 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:23:50 | Info | 'MESSAAGE TEMPORAIRE : INITIALISATION DE LA BASE DE DONNEES)' | 
+22:23:49 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:23:49 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:24:20 | Info | '' | 
+22:24:20 | Info | '[0/3] Initialisation du bot' | 
+22:24:20 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:24:20 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:24:20 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:24:20 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:24:20 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:24:20 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:24:20 | Info | '[CMD] Chargement des commandes terminé' | 
+22:24:20 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:24:20 | Info | 'MESSAAGE TEMPORAIRE : INITIALISATION DE LA BASE DE DONNEES)' | 
+22:24:20 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:24:56 | Info | '' | 
+22:24:56 | Info | '[0/3] Initialisation du bot' | 
+22:24:56 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:24:56 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:24:56 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:24:56 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:24:56 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:24:56 | Info | '[CMD] Chargement des commandes terminé' | 
+22:24:56 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:24:56 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:24:56 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:24:56 | Info | 'MESSAAGE TEMPORAIRE : INITIALISATION DE LA BASE DE DONNEES)' | 
+22:25:06 | Info | '' | 
+22:25:06 | Info | '[0/3] Initialisation du bot' | 
+22:25:06 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:25:06 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:25:06 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:25:06 | Info | '[CMD] Chargement des commandes terminé' | 
+22:25:06 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:25:06 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:25:06 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:25:06 | Info | 'MESSAAGE TEMPORAIRE : INITIALISATION DE LA BASE DE DONNEES)' | 
+22:25:06 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:25:06 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:25:11 | Info | '' | 
+22:25:11 | Info | '[0/3] Initialisation du bot' | 
+22:25:11 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:25:11 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:25:11 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:25:11 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:25:11 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:25:11 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:25:11 | Info | '[CMD] Chargement des commandes terminé' | 
+22:25:11 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:25:11 | Info | 'MESSAAGE TEMPORAIRE : INITIALISATION DE LA BASE DE DONNEES)' | 
+22:25:11 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:27:38 | Info | '' | 
+22:27:38 | Info | '[0/3] Initialisation du bot' | 
+22:27:38 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:27:38 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:27:38 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:27:38 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:27:38 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:27:38 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:27:38 | Info | '[CMD] Chargement des commandes terminé' | 
+22:27:38 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:27:38 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:28:02 | Info | '' | 
+22:28:02 | Info | '[0/3] Initialisation du bot' | 
+22:28:02 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:28:02 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:28:02 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:28:02 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:28:02 | Info | '[CMD] Chargement des commandes terminé' | 
+22:28:02 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:28:02 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:28:02 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:28:02 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:28:10 | Info | '' | 
+22:28:10 | Info | '[0/3] Initialisation du bot' | 
+22:28:10 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:28:10 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:28:10 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:28:10 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:28:10 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:28:10 | Info | '[CMD] Chargement des commandes terminé' | 
+22:28:10 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:28:10 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:28:10 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:28:37 | Info | '' | 
+22:28:37 | Info | '[0/3] Initialisation du bot' | 
+22:28:37 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:28:37 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:28:37 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:28:37 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:28:37 | Info | '[CMD] Chargement des commandes terminé' | 
+22:28:37 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:28:37 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:28:37 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:28:37 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:28:48 | Info | '' | 
+22:28:48 | Info | '[0/3] Initialisation du bot' | 
+22:28:48 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:28:48 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:28:48 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:28:48 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:28:48 | Info | '[CMD] Chargement des commandes terminé' | 
+22:28:48 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:28:48 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:28:48 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:28:48 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:28:57 | Info | '' | 
+22:28:57 | Info | '[0/3] Initialisation du bot' | 
+22:28:57 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:28:57 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:28:57 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:28:57 | Info | '[CMD] Chargement des commandes terminé' | 
+22:28:57 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:28:57 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:28:57 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:28:57 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:28:57 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:29:22 | Info | '' | 
+22:29:22 | Info | '[0/3] Initialisation du bot' | 
+22:29:22 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:29:22 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:29:22 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:29:22 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:29:22 | Info | '[CMD] Chargement des commandes terminé' | 
+22:29:22 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:29:22 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:29:22 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:29:22 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:30:39 | Info | '' | 
+22:30:39 | Info | '[0/3] Initialisation du bot' | 
+22:30:39 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:30:39 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:30:39 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:30:39 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:30:39 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:30:39 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:30:39 | Info | '[CMD] Chargement des commandes terminé' | 
+22:30:39 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:30:39 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:30:40 | Info | 'MESSAAGE TEMPORAIRE : INITIALISATION DE LA BASE DE DONNEES)' | 
+22:30:58 | Info | '' | 
+22:30:58 | Info | '[0/3] Initialisation du bot' | 
+22:30:58 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:30:58 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:30:58 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:30:58 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:30:58 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:30:58 | Info | '[CMD] Chargement des commandes terminé' | 
+22:30:58 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:30:58 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:30:58 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:30:59 | Info | 'MESSAAGE TEMPORAIRE : INITIALISATION DE LA BASE DE DONNEES)' | 
+22:31:11 | Info | '' | 
+22:31:11 | Info | '[0/3] Initialisation du bot' | 
+22:31:11 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:31:11 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:31:11 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:31:11 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:31:11 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:31:11 | Info | '[CMD] Chargement des commandes terminé' | 
+22:31:11 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:31:11 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:31:11 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:31:12 | Info | 'MESSAAGE TEMPORAIRE : INITIALISATION DE LA BASE DE DONNEES)' | 
+22:31:46 | Info | '' | 
+22:31:46 | Info | '[0/3] Initialisation du bot' | 
+22:31:46 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:31:46 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:31:46 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:31:46 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:31:46 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:31:46 | Info | '[CMD] Chargement des commandes terminé' | 
+22:31:46 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:31:46 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:31:46 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:31:47 | Info | 'MESSAAGE TEMPORAIRE : INITIALISATION DE LA BASE DE DONNEES)' | 
+22:31:57 | Info | '' | 
+22:31:57 | Info | '[0/3] Initialisation du bot' | 
+22:31:57 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:31:57 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:31:57 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:31:57 | Info | '[CMD] Chargement des commandes terminé' | 
+22:31:57 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:31:57 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:31:57 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:31:57 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:31:57 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:31:58 | Info | 'MESSAAGE TEMPORAIRE : INITIALISATION DE LA BASE DE DONNEES)' | 
+22:32:17 | Info | '' | 
+22:32:17 | Info | '[0/3] Initialisation du bot' | 
+22:32:17 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:32:17 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:32:17 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:32:17 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:32:17 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:32:17 | Info | '[CMD] Chargement des commandes terminé' | 
+22:32:17 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:32:17 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:32:17 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:32:18 | Info | 'MESSAAGE TEMPORAIRE : INITIALISATION DE LA BASE DE DONNEES)' | 
+22:32:52 | Info | '' | 
+22:32:52 | Info | '[0/3] Initialisation du bot' | 
+22:32:52 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:32:52 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:32:52 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:32:52 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:32:52 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:32:52 | Info | '[CMD] Chargement des commandes terminé' | 
+22:32:52 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:32:52 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:32:52 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:32:53 | Info | 'MESSAAGE TEMPORAIRE : INITIALISATION DE LA BASE DE DONNEES)' | 
+22:32:58 | Info | '' | 
+22:32:58 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:32:58 | Info | '[0/3] Initialisation du bot' | 
+22:32:58 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:32:58 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:32:58 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:32:58 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:32:58 | Info | '[CMD] Chargement des commandes terminé' | 
+22:32:58 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:32:58 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:32:58 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:32:59 | Info | 'MESSAAGE TEMPORAIRE : INITIALISATION DE LA BASE DE DONNEES)' | 
+22:33:03 | Info | '' | 
+22:33:03 | Info | '[0/3] Initialisation du bot' | 
+22:33:03 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:33:03 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:33:03 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:33:03 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:33:03 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:33:03 | Info | '[CMD] Chargement des commandes terminé' | 
+22:33:03 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:33:03 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:33:03 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:33:04 | Info | 'MESSAAGE TEMPORAIRE : INITIALISATION DE LA BASE DE DONNEES)' | 
+22:33:23 | Info | '' | 
+22:33:23 | Info | '[0/3] Initialisation du bot' | 
+22:33:23 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:33:23 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:33:23 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:33:23 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:33:23 | Info | '[CMD] Chargement des commandes terminé' | 
+22:33:23 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:33:23 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:33:23 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:33:23 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:33:45 | Info | '' | 
+22:33:45 | Info | '[0/3] Initialisation du bot' | 
+22:33:45 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:33:45 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:33:45 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:33:45 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:33:45 | Info | '[CMD] Chargement des commandes terminé' | 
+22:33:45 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:33:45 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:33:45 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:33:45 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:34:41 | Info | '' | 
+22:34:41 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:34:41 | Info | '[0/3] Initialisation du bot' | 
+22:34:41 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:34:41 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:34:41 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:34:41 | Info | '[CMD] Chargement des commandes terminé' | 
+22:34:41 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:34:41 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:34:41 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:34:41 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:34:57 | Info | '' | 
+22:34:57 | Info | '[0/3] Initialisation du bot' | 
+22:34:57 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:34:57 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:34:57 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:34:57 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:34:57 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:34:57 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:34:57 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:34:57 | Info | '[CMD] Chargement des commandes terminé' | 
+22:34:57 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:35:07 | Info | '' | 
+22:35:07 | Info | '[0/3] Initialisation du bot' | 
+22:35:07 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:35:07 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:35:07 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:35:07 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:35:07 | Info | '[CMD] Chargement des commandes terminé' | 
+22:35:07 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:35:07 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:35:07 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:35:07 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:36:27 | Info | '' | 
+22:36:27 | Info | '[0/3] Initialisation du bot' | 
+22:36:27 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:36:27 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:36:27 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:36:27 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:36:27 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:36:27 | Info | '[CMD] Chargement des commandes terminé' | 
+22:36:27 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:36:27 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:36:27 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:37:45 | Info | '' | 
+22:37:45 | Info | '[0/3] Initialisation du bot' | 
+22:37:45 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:37:45 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:37:45 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:37:45 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:37:45 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:37:45 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:37:45 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:37:46 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:37:46 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:37:46 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+22:37:45 | Info | '[CMD] Chargement des commandes terminé' | 
+22:37:46 | Info | '[EVT] Event ready chargé avec succès' | 
+22:37:46 | Info | '[EVT] Chargement des events terminé' | 
+22:37:46 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+22:39:02 | Info | '' | 
+22:39:02 | Info | '[0/3] Initialisation du bot' | 
+22:39:02 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:39:02 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:39:02 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:39:02 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:39:02 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:39:02 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:39:02 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:39:02 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:39:02 | Info | '[CMD] Chargement des commandes terminé' | 
+22:39:11 | Info | '' | 
+22:39:11 | Info | '[0/3] Initialisation du bot' | 
+22:39:11 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:39:11 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:39:11 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:39:11 | Info | '[CMD] Chargement des commandes terminé' | 
+22:39:11 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:39:11 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:39:11 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:39:11 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:39:11 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:39:16 | Info | '' | 
+22:39:16 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:39:16 | Info | '[0/3] Initialisation du bot' | 
+22:39:16 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:39:16 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:39:16 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:39:16 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:39:16 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:39:16 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:39:16 | Info | '[CMD] Chargement des commandes terminé' | 
+22:39:16 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:39:29 | Info | '' | 
+22:39:29 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:39:29 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:39:29 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:39:29 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:39:29 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:39:29 | Info | '[0/3] Initialisation du bot' | 
+22:39:29 | Info | '[CMD] Chargement des commandes terminé' | 
+22:39:29 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:39:29 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:39:29 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:39:49 | Info | '' | 
+22:39:49 | Info | '[0/3] Initialisation du bot' | 
+22:39:49 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:39:49 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:39:49 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:39:49 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:39:49 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:39:49 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:39:49 | Info | '[CMD] Chargement des commandes terminé' | 
+22:39:49 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:39:49 | Info | 'MESSAAGE TEMPORAIRE : INITIALISATION DE LA BASE DE DONNEES TERMINEE' | 
+22:39:49 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:39:49 | Info | '[EVT] Event ready chargé avec succès' | 
+22:39:49 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:39:49 | Info | 'MESSAAGE TEMPORAIRE : INITIALISATION DE LA BASE DE DONNEES)' | 
+22:39:49 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+22:39:49 | Info | '[EVT] Chargement des events terminé' | 
+22:40:21 | Info | '' | 
+22:40:21 | Info | '[0/3] Initialisation du bot' | 
+22:40:21 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:40:21 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:40:21 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:40:21 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:40:21 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:40:21 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:40:21 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:40:21 | Info | 'MESSAAGE TEMPORAIRE : INITIALISATION DE LA BASE DE DONNEES)' | 
+22:40:21 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:40:21 | Info | 'MESSAAGE TEMPORAIRE : INITIALISATION DE LA BASE DE DONNEES TERMINEE' | 
+22:40:21 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:40:21 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+22:40:21 | Info | '[EVT] Event ready chargé avec succès' | 
+22:40:21 | Info | '[CMD] Chargement des commandes terminé' | 
+22:40:21 | Info | '[EVT] Chargement des events terminé' | 
+22:40:22 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+22:40:39 | Info | '' | 
+22:40:39 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:40:39 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:40:39 | Info | '[0/3] Initialisation du bot' | 
+22:40:39 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:40:39 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:40:39 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:40:39 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:40:39 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:40:39 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:40:39 | Info | 'MESSAAGE TEMPORAIRE : INITIALISATION DE LA BASE DE DONNEES)' | 
+22:40:39 | Info | 'MESSAAGE TEMPORAIRE : INITIALISATION DE LA BASE DE DONNEES TERMINEE' | 
+22:40:39 | Info | '[CMD] Chargement des commandes terminé' | 
+22:40:39 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+22:40:39 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:40:39 | Info | '[EVT] Event ready chargé avec succès' | 
+22:40:39 | Info | '[EVT] Chargement des events terminé' | 
+22:40:40 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+22:41:45 | Info | '' | 
+22:41:45 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:41:45 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:41:45 | Info | '[0/3] Initialisation du bot' | 
+22:41:45 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:41:46 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:41:46 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:41:46 | Info | '[CMD] Chargement des commandes terminé' | 
+22:41:45 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:41:46 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:41:46 | Info | 'MESSAAGE TEMPORAIRE : INITIALISATION DE LA BASE DE DONNEES)' | 
+22:41:46 | Info | 'MESSAAGE TEMPORAIRE : INITIALISATION DE LA BASE DE DONNEES TERMINEE' | 
+22:41:46 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:41:46 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:41:46 | Info | '[EVT] Event ready chargé avec succès' | 
+22:41:46 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+22:41:46 | Info | '[EVT] Chargement des events terminé' | 
+22:41:47 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+22:43:01 | Info | '' | 
+22:43:01 | Info | '[0/3] Initialisation du bot' | 
+22:43:01 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:43:01 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:43:01 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:43:01 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:43:01 | Info | '[CMD] Chargement des commandes terminé' | 
+22:43:01 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:43:01 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:43:01 | Info | '[DB] Chargement de la base de donnée ........................................................................' | 
+22:43:01 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:43:01 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:43:01 | Info | '[DB] Base de donnée chargée avec succès' | 
+22:43:01 | Info | '[EVT] Event ready chargé avec succès' | 
+22:43:01 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+22:43:01 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:43:01 | Info | '[EVT] Chargement des events terminé' | 
+22:43:02 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+22:43:16 | Info | '' | 
+22:43:16 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:43:16 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:43:16 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:43:16 | Info | '[0/3] Initialisation du bot' | 
+22:43:16 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:43:16 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:43:16 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:43:16 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:43:16 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:43:17 | Info | '[DB] Chargement de la base de donnée' | 
+22:43:16 | Info | '[CMD] Chargement des commandes terminé' | 
+22:43:17 | Info | '[DB] Base de donnée chargée avec succès' | 
+22:43:17 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:43:17 | Info | '[EVT] Chargement des events terminé' | 
+22:43:17 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+22:43:17 | Info | '[EVT] Event ready chargé avec succès' | 
+22:43:18 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+22:44:48 | Info | '' | 
+22:44:48 | Info | '[0/3] Initialisation du bot' | 
+22:44:48 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:44:48 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:44:48 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:44:48 | Info | '[1/3] Chargement des commandes ' | 
+22:44:48 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:44:48 | Info | '[2/3] Chargement des Events' | 
+22:44:48 | Info | '[CMD] Chargement des commandes terminé' | 
+22:44:48 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:44:48 | Info | '[DB] Chargement de la base de donnée' | 
+22:44:48 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:44:48 | Info | '[EVT] Event ready chargé avec succès' | 
+22:44:48 | Info | '[DB] Base de donnée chargée avec succès' | 
+22:44:48 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:44:48 | Info | '[EVT] Chargement des events terminé' | 
+22:44:48 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+22:44:49 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+22:45:23 | Info | '' | 
+22:45:23 | Info | '[0/3] Initialisation du bot' | 
+22:45:23 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:45:23 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:45:23 | Info | '[1/3] Chargement des commandes ' | 
+22:45:23 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:45:23 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:45:23 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:45:23 | Info | '[2/3] Chargement des Events' | 
+22:45:23 | Info | '[CMD] Chargement des commandes terminé' | 
+22:45:23 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:45:24 | Info | '[DB] Base de donnée chargée avec succès' | 
+22:45:24 | Info | '[EVT] Event ready chargé avec succès' | 
+22:45:24 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:45:24 | Info | '[EVT] Chargement des events terminé' | 
+22:45:24 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+22:45:23 | Info | '[DB] Chargement de la base de donnée' | 
+22:45:24 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+22:47:02 | Info | '' | 
+22:47:02 | Info | '[0/3] Initialisation du bot' | 
+22:47:02 | Info | '[1/3] Chargement des commandes ' | 
+22:47:02 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+22:47:02 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:47:02 | Info | '[CMD] Commande setsound chargée avec succès' | 
+22:47:02 | Info | '[CMD] Commande reset chargée avec succès' | 
+22:47:02 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:47:02 | Info | '[CMD] Chargement des commandes terminé' | 
+22:47:02 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:47:02 | Info | '[DB] Base de donnée chargée avec succès' | 
+22:47:02 | Info | '[2/3] Chargement des Events' | 
+22:47:02 | Info | '[DB] Chargement de la base de donnée' | 
+22:47:02 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:47:02 | Info | '[EVT] Chargement des events terminé' | 
+22:47:02 | Info | '[EVT] Event ready chargé avec succès' | 
+22:47:02 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+22:47:03 | Info | '[3/3] Connecté en tant que Murloc#7410' | 

@@ -1,0 +1,53 @@
+00:09:02 | Info | 'kkdours a gagné 8 xp !' | 
+00:10:08 | Info | 'motisma a gagné 32 xp !' | 
+00:11:01 | Info | '[TIMER] Le chrono est en pause pour d_aberggine' | 
+00:11:03 | Info | 'd_aberggine a gagné 26 xp !' | 
+00:56:29 | Info | 'xeit0w a été murlocké avec succès' | 
+14:32:19 | Info | 'd_aberggine a été murlocké avec succès' | 
+14:33:53 | Info | '[TIMER] Départ du chrono pour kkdours' | 
+14:33:54 | Info | 'kkdours a été murlocké avec succès' | 
+14:34:16 | Info | '[TIMER] Départ du chrono pour d_aberggine' | 
+14:35:45 | Info | '[TIMER] Départ du chrono pour motisma' | 
+14:35:46 | Info | 'motisma a été murlocké avec succès' | 
+15:47:35 | Info | 'kkdours a gagné 12 xp !' | 
+15:48:24 | Info | 'motisma a gagné 12 xp !' | 
+15:48:30 | Info | '[TIMER] Départ du chrono pour motisma' | 
+15:48:31 | Info | 'motisma a été murlocké avec succès' | 
+15:48:44 | Info | 'd_aberggine a gagné 12 xp !' | 
+18:48:59 | Info | 'motisma a été murlocké avec succès' | 
+21:07:58 | Info | 'motisma a été murlocké avec succès' | 
+21:28:05 | Error | 'Erreur lors de l\'exécution de la commande clear' | 
+21:28:05 | Error | 'DiscordAPIError[50001]: Missing Access\n    at handleErrors (/home/discord-bot/js/murlock/node_modules/@discordjs/rest/dist/index.js:687:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.runRequest (/home/discord-bot/js/murlock/node_modules/@discordjs/rest/dist/index.js:1072:23)\n    at async SequentialHandler.queueRequest (/home/discord-bot/js/murlock/node_modules/@discordjs/rest/dist/index.js:913:14)\n    at async _REST.request (/home/discord-bot/js/murlock/node_modules/@discordjs/rest/dist/index.js:1218:22)\n    at async GuildMessageManager._fetchMany (/home/discord-bot/js/murlock/node_modules/discord.js/src/managers/MessageManager.js:111:18)\n    at async TextChannel.bulkDelete (/home/discord-bot/js/murlock/node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js:315:20)\n    at async Object.execute (/home/discord-bot/js/murlock/commands/core/clear.js:20:9)\n    at async Object.execute (/home/discord-bot/js/murlock/events/interactionCreate.js:16:13)' | 
+21:28:19 | Info | 'La commande clear a été exécutée par xeit0w' | 
+21:50:57 | Info | '[TIMER] Départ du chrono pour d_aberggine' | 
+21:50:58 | Info | 'd_aberggine a été murlocké avec succès' | 
+21:51:24 | Info | '[TIMER] Départ du chrono pour motisma' | 
+22:37:14 | Info | '[TIMER] Départ du chrono pour cumplex' | 
+22:37:15 | Info | 'cumplex a été murlocké avec succès' | 
+22:41:32 | Info | '[TIMER] Départ du chrono pour cumplex' | 
+22:41:32 | Info | 'cumplex a été murlocké avec succès' | 
+22:58:16 | Info | 'cumplex a gagné 2 xp !' | 
+23:26:41 | Info | '' | 
+23:26:41 | Info | '[0/3] Initialisation du bot' | 
+23:26:41 | Info | '[1/3] Chargement des commandes ' | 
+23:26:41 | Info | '[CMD] Commande clear chargée avec succès' | 
+23:26:41 | Info | '[CMD] Commande help chargée avec succès' | 
+23:26:41 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+23:26:41 | Info | '[CMD] Commande ping chargée avec succès' | 
+23:26:41 | Info | '[CMD] Commande leaderboard chargée avec succès' | 
+23:26:41 | Info | '[CMD] Commande preview chargée avec succès' | 
+23:26:41 | Info | '[CMD] Commande reset chargée avec succès' | 
+23:26:41 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:26:41 | Info | '[CMD] Commande stats chargée avec succès' | 
+23:26:41 | Info | '[CMD] Chargement des commandes terminé' | 
+23:26:41 | Info | '[2/3] Chargement des Events' | 
+23:26:41 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+23:26:41 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+23:26:41 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+23:26:42 | Info | '[DB] Chargement de la base de donnée' | 
+23:26:42 | Info | '[EVT] Event ready chargé avec succès' | 
+23:26:42 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+23:26:42 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+23:26:42 | Info | '[EVT] Chargement des events terminé' | 
+23:26:42 | Info | '[DB] Base de donnée chargée avec succès' | 
+23:26:43 | Info | '[3/3] Connecté en tant que Murloc#7410' | 

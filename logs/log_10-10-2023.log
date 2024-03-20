@@ -1,0 +1,619 @@
+21:47:38 | Info | '[CMD] Commande ping chargée avec succès' | 
+21:47:38 | Info | '[CMD] Chargement des commandes terminé' | 
+21:47:38 | Info | '[CMD] Chargement des commandes...' | 
+21:47:38 | Info | '[EVT] Chargement des events...' | 
+21:47:38 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:47:38 | Info | '[EVT] Event ready chargé avec succès' | 
+21:47:39 | [CLIENT] Connnecté en tant que Murloc#7410 | undefined | 
+21:49:03 | Info | '[CMD] Chargement des commandes...' | 
+21:49:03 | Info | '[CMD] Commande ping chargée avec succès' | 
+21:49:03 | Info | '[CMD] Chargement des commandes terminé' | 
+21:49:03 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:49:03 | Info | '[EVT] Chargement des events...' | 
+21:49:03 | Info | '[EVT] Event ready chargé avec succès' | 
+21:49:04 | [CLIENT] Connnecté en tant que Murloc#7410 | undefined | 
+21:49:29 | Info | '[CMD] Chargement des commandes...' | 
+21:49:29 | Info | '[CMD] Commande ping chargée avec succès' | 
+21:49:29 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:49:29 | Info | '[CMD] Chargement des commandes terminé' | 
+21:49:29 | Info | '[EVT] Chargement des events...' | 
+21:49:29 | Info | '[EVT] Event ready chargé avec succès' | 
+21:49:30 | [CLIENT] Connnecté en tant que Murloc#7410 | undefined | 
+21:49:47 | Info | '[CMD] Chargement des commandes...' | 
+21:49:47 | Info | '[CMD] Commande ping chargée avec succès' | 
+21:49:47 | Info | '[CMD] Chargement des commandes terminé' | 
+21:49:47 | Info | '[EVT] Chargement des events...' | 
+21:49:47 | Info | '[EVT] Event ready chargé avec succès' | 
+21:49:47 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:49:48 | [CLIENT] Connnecté en tant que Murloc#7410 | undefined | 
+21:50:03 | Info | '[CMD] Chargement des commandes...' | 
+21:50:03 | Info | '[CMD] Commande ping chargée avec succès' | 
+21:50:03 | Info | '[CMD] Chargement des commandes terminé' | 
+21:50:03 | Info | '[EVT] Chargement des events...' | 
+21:50:03 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:50:03 | Info | '[EVT] Event ready chargé avec succès' | 
+21:50:44 | Info | '[CMD] Chargement des commandes...' | 
+21:50:44 | Info | '[CMD] Commande ping chargée avec succès' | 
+21:50:44 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:50:44 | Info | '[EVT] Event ready chargé avec succès' | 
+21:50:44 | Info | '[CMD] Chargement des commandes terminé' | 
+21:50:44 | Info | '[EVT] Chargement des events...' | 
+21:50:45 | Info | '[CLIENT] Connnecté en tant que Murloc#7410' | 
+21:51:25 | Info | '[CMD] Chargement des commandes...' | 
+21:51:25 | Info | '[CMD] Chargement des commandes terminé' | 
+21:51:25 | Info | '[CMD] Commande ping chargée avec succès' | 
+21:51:25 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:51:25 | Info | '[EVT] Chargement des events...' | 
+21:51:25 | Info | '[EVT] Event ready chargé avec succès' | 
+21:51:25 | Info | '[EVT] Chargement des events terminé' | 
+21:51:25 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+21:51:27 | Info | '[CLIENT] Connnecté en tant que Murloc#7410' | 
+21:51:39 | Info | '[CMD] Chargement des commandes...' | 
+21:51:39 | Info | '[CMD] Commande ping chargée avec succès' | 
+21:51:39 | Info | '[CMD] Chargement des commandes terminé' | 
+21:51:39 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:51:39 | Info | '[EVT] Chargement des events...' | 
+21:51:39 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+21:51:39 | Info | '[EVT] Event ready chargé avec succès' | 
+21:51:39 | Info | '[EVT] Chargement des events terminé' | 
+21:51:39 | Info | '[CLIENT] Connnecté en tant que Murloc#7410' | 
+21:52:15 | Info | '[CMD] Chargement des commandes...' | 
+21:52:15 | Info | '[CMD] Chargement des commandes terminé' | 
+21:52:15 | Info | '[CMD] Commande ping chargée avec succès' | 
+21:52:15 | Info | '[EVT] Chargement des events...' | 
+21:52:15 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:52:15 | Info | '[EVT] Event ready chargé avec succès' | 
+21:52:15 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+21:52:15 | Info | '[EVT] Chargement des events terminé' | 
+21:52:17 | Info | '[CLIENT] Connnecté en tant que Murloc#7410' | 
+21:53:48 | Info | '[CMD] Commande ping chargée avec succès' | 
+21:53:48 | Info | '[CMD] Chargement des commandes terminé' | 
+21:53:48 | Info | '[CMD] Chargement des commandes...' | 
+21:53:48 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:53:48 | Info | '[EVT] Chargement des events...' | 
+21:53:48 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+21:53:48 | Info | '[EVT] Chargement des events terminé' | 
+21:53:48 | Info | '[EVT] Event ready chargé avec succès' | 
+21:53:49 | Info | '[CLIENT] Connnecté en tant que Murloc#7410' | 
+21:58:23 | Info | '[CMD] Chargement des commandes...' | 
+21:58:23 | Info | '[CMD] Chargement des commandes terminé' | 
+21:58:23 | Info | '[CMD] Commande ping chargée avec succès' | 
+21:58:23 | Info | '[EVT] Chargement des events...' | 
+21:58:23 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+21:58:23 | Info | '[EVT] Event ready chargé avec succès' | 
+21:58:23 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+21:58:23 | Info | '[EVT] Chargement des events terminé' | 
+21:58:24 | Info | '[CLIENT] Connnecté en tant que Murloc#7410' | 
+22:30:22 | Info | '[CMD] Chargement des commandes...' | 
+22:30:22 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:30:22 | Info | '[CMD] Chargement des commandes terminé' | 
+22:30:22 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:30:22 | Info | '[EVT] Chargement des events...' | 
+22:30:22 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+22:30:22 | Info | '[EVT] Event ready chargé avec succès' | 
+22:30:22 | Info | '[EVT] Chargement des events terminé' | 
+22:30:23 | Info | '[CLIENT] Connnecté en tant que Murloc#7410' | 
+22:30:48 | Info | '[CMD] Chargement des commandes...' | 
+22:30:48 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:30:48 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:30:48 | Info | '[EVT] Chargement des events...' | 
+22:30:48 | Info | '[CMD] Chargement des commandes terminé' | 
+22:30:48 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+22:30:48 | Info | '[EVT] Chargement des events terminé' | 
+22:30:48 | Info | '[EVT] Event ready chargé avec succès' | 
+22:30:49 | Info | '[CLIENT] Connnecté en tant que Murloc#7410' | 
+22:30:57 | Info | '[CMD] Chargement des commandes...' | 
+22:30:57 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:30:57 | Info | '[CMD] Chargement des commandes terminé' | 
+22:30:57 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:30:57 | Info | '[EVT] Event ready chargé avec succès' | 
+22:30:57 | Info | '[EVT] Chargement des events...' | 
+22:30:57 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+22:30:57 | Info | '[EVT] Chargement des events terminé' | 
+22:30:58 | Info | '[CLIENT] Connnecté en tant que Murloc#7410' | 
+22:32:35 | Info | '[CMD] Chargement des commandes...' | 
+22:32:35 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:32:35 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:32:35 | Info | '[EVT] Event ready chargé avec succès' | 
+22:32:35 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+22:32:35 | Info | '[EVT] Chargement des events...' | 
+22:32:35 | Info | '[EVT] Chargement des events terminé' | 
+22:32:35 | Info | '[CMD] Chargement des commandes terminé' | 
+22:32:36 | Info | '[CLIENT] Connnecté en tant que Murloc#7410' | 
+22:33:19 | Info | '[CMD] Chargement des commandes...' | 
+22:33:19 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:33:19 | Info | '[CMD] Chargement des commandes terminé' | 
+22:33:19 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:33:19 | Info | '[EVT] Chargement des events...' | 
+22:33:19 | Info | '[EVT] Event ready chargé avec succès' | 
+22:33:19 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+22:33:19 | Info | '[EVT] Chargement des events terminé' | 
+22:33:20 | Info | '[CLIENT] Connnecté en tant que Murloc#7410' | 
+22:35:11 | Info | '[CMD] Chargement des commandes...' | 
+22:35:11 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:35:11 | Info | '[CMD] Chargement des commandes terminé' | 
+22:35:11 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:35:11 | Info | '[EVT] Event ready chargé avec succès' | 
+22:35:11 | Info | '[EVT] Chargement des events...' | 
+22:35:11 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+22:35:11 | Info | '[EVT] Chargement des events terminé' | 
+22:35:12 | Info | '[CLIENT] Connnecté en tant que Murloc#7410' | 
+22:38:25 | Info | '[CMD] Chargement des commandes...' | 
+22:38:25 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:38:25 | Info | '[CMD] Chargement des commandes terminé' | 
+22:38:25 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:38:25 | Info | '[EVT] Event ready chargé avec succès' | 
+22:38:25 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+22:38:25 | Info | '[EVT] Chargement des events terminé' | 
+22:38:25 | Info | '[EVT] Chargement des events...' | 
+22:38:27 | Info | 'init_loading: "------------------------------------------------------------------------------\n[3/3] Connecté en tant que Murloc#7410' | 
+22:39:20 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:39:20 | Info | '[CMD] Chargement des commandes...' | 
+22:39:20 | Info | '[CMD] Chargement des commandes terminé' | 
+22:39:20 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:39:20 | Info | '[EVT] Chargement des events...' | 
+22:39:20 | Info | '[EVT] Event ready chargé avec succès' | 
+22:39:20 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+22:39:20 | Info | '[EVT] Chargement des events terminé' | 
+22:39:21 | Info | '------------------------------------------------------------------------------\n[3/3] Connecté en tant que Murloc#7410' | 
+22:41:30 | Info | '[CMD] Chargement des commandes...' | 
+22:41:30 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:41:30 | Info | '[CMD] Chargement des commandes terminé' | 
+22:41:30 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:41:30 | Info | '[EVT] Chargement des events...' | 
+22:41:30 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+22:41:30 | Info | '[EVT] Event ready chargé avec succès' | 
+22:41:30 | Info | '[EVT] Chargement des events terminé' | 
+22:41:31 | Info | '------------------------------------------------------------------------------\n[3/3] Connecté en tant que Murloc#7410' | 
+22:42:01 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:42:01 | Info | '[CMD] Chargement des commandes terminé' | 
+22:42:01 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:42:01 | Info | '[EVT] Chargement des events...' | 
+22:42:01 | Info | '[CMD] Chargement des commandes...' | 
+22:42:01 | Info | '[EVT] Event ready chargé avec succès' | 
+22:42:01 | Info | '[EVT] Chargement des events terminé' | 
+22:42:01 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+22:42:02 | Info | '------------------------------------------------------------------------------\n[3/3] Connecté en tant que Murloc#7410' | 
+22:42:35 | Info | '------------------------------------------------------------------------------\n[1/3] Chargement des commandes' | 
+22:42:35 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:42:35 | Info | '[CMD] Chargement des commandes terminé' | 
+22:42:35 | Info | '------------------------------------------------------------------------------\n[2/3] Chargement des Events' | 
+22:42:35 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:42:35 | Info | '[EVT] Event ready chargé avec succès' | 
+22:42:35 | Info | '[EVT] Chargement des events terminé' | 
+22:42:35 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+22:42:36 | Info | '------------------------------------------------------------------------------\n[3/3] Connecté en tant que Murloc#7410' | 
+22:43:46 | Info | '[1/3] Chargement des commandes .....................................................' | 
+22:43:46 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:43:46 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:43:46 | Info | '[CMD] Chargement des commandes terminé' | 
+22:43:46 | Info | '[2/3] Chargement des Events...........................................................' | 
+22:43:46 | Info | '[EVT] Chargement des events terminé' | 
+22:43:46 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+22:43:46 | Info | '[EVT] Event ready chargé avec succès' | 
+22:43:47 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+22:45:05 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:45:05 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:45:05 | Info | '[CMD] Chargement des commandes terminé' | 
+22:45:05 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:45:05 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+22:45:05 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:45:05 | Info | '[EVT] Event ready chargé avec succès' | 
+22:45:05 | Info | '[EVT] Chargement des events terminé' | 
+22:45:07 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+22:47:28 | Info | '' | 
+22:47:28 | Info | '[0/3] Initialisation du bot' | 
+22:47:28 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:47:28 | Info | '[CMD] Chargement des commandes terminé' | 
+22:47:28 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:47:28 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:47:28 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:47:28 | Info | '[EVT] Event ready chargé avec succès' | 
+22:47:28 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+22:47:28 | Info | '[EVT] Chargement des events terminé' | 
+22:47:29 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+22:57:27 | Info | '' | 
+22:57:27 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:57:27 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:57:27 | Info | '[0/3] Initialisation du bot' | 
+22:57:27 | Info | '[CMD] Chargement des commandes terminé' | 
+22:57:27 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:57:27 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:57:27 | Info | '[EVT] Event ready chargé avec succès' | 
+22:57:27 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+22:57:27 | Info | '[EVT] Chargement des events terminé' | 
+22:57:27 | Info | '[DB]Connexion à la base de donnée réussie' | 
+22:57:28 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+22:58:19 | Info | '' | 
+22:58:19 | Info | '[0/3] Initialisation du bot' | 
+22:58:19 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+22:58:19 | Info | '[CMD] Commande ping chargée avec succès' | 
+22:58:19 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+22:58:19 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+22:58:19 | Info | '[CMD] Chargement des commandes terminé' | 
+22:58:19 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+22:58:19 | Info | '[EVT] Event ready chargé avec succès' | 
+22:58:19 | Info | '[EVT] Chargement des events terminé' | 
+22:58:19 | Info | '[DB]Connexion à la base de donnée réussie' | 
+22:58:22 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+23:13:07 | Info | '' | 
+23:13:07 | Info | '[0/3] Initialisation du bot' | 
+23:13:07 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+23:13:07 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:13:07 | Info | '[CMD] Commande ping chargée avec succès' | 
+23:13:07 | Info | '[CMD] Chargement des commandes terminé' | 
+23:13:07 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+23:13:07 | Info | '[EVT] Event ready chargé avec succès' | 
+23:13:07 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+23:13:07 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+23:13:07 | Info | '[EVT] Chargement des events terminé' | 
+23:13:08 | Info | '[DB]Connexion à la base de donnée réussie' | 
+23:13:11 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+23:13:31 | Info | '[0/3] Initialisation du bot' | 
+23:13:31 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+23:13:31 | Info | '[CMD] Commande ping chargée avec succès' | 
+23:13:31 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:13:31 | Info | '[CMD] Chargement des commandes terminé' | 
+23:13:31 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+23:13:31 | Info | '[EVT] Event ready chargé avec succès' | 
+23:13:31 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+23:13:31 | Info | '' | 
+23:13:31 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+23:13:31 | Info | '[EVT] Chargement des events terminé' | 
+23:13:31 | Info | '[DB]Connexion à la base de donnée réussie' | 
+23:13:32 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+23:14:13 | Info | '' | 
+23:14:13 | Info | '[0/3] Initialisation du bot' | 
+23:14:13 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:14:13 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+23:14:13 | Info | '[CMD] Chargement des commandes terminé' | 
+23:14:13 | Info | '[CMD] Commande ping chargée avec succès' | 
+23:14:13 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+23:14:13 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+23:14:13 | Info | '[EVT] Event ready chargé avec succès' | 
+23:14:13 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+23:14:13 | Info | '[EVT] Chargement des events terminé' | 
+23:14:14 | Info | '[DB]Connexion à la base de donnée réussie' | 
+23:14:14 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+23:15:22 | Info | '[0/3] Initialisation du bot' | 
+23:15:22 | Info | '' | 
+23:15:22 | Info | '[CMD] Commande ping chargée avec succès' | 
+23:15:22 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+23:15:22 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:15:22 | Info | '[CMD] Chargement des commandes terminé' | 
+23:15:22 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+23:15:22 | Info | '[DB]Connexion à la base de donnée réussie' | 
+23:16:30 | Info | '' | 
+23:16:30 | Info | '[0/3] Initialisation du bot' | 
+23:16:30 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+23:16:30 | Info | '[CMD] Commande ping chargée avec succès' | 
+23:16:30 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:16:30 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+23:16:30 | Info | '[CMD] Chargement des commandes terminé' | 
+23:16:30 | Info | '[DB]Connexion à la base de donnée réussie' | 
+23:16:45 | Info | '[0/3] Initialisation du bot' | 
+23:16:45 | Info | '' | 
+23:16:45 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+23:16:45 | Info | '[CMD] Commande ping chargée avec succès' | 
+23:16:45 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:16:45 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+23:16:45 | Info | '[CMD] Chargement des commandes terminé' | 
+23:16:45 | Info | '[DB]Connexion à la base de donnée réussie' | 
+23:17:17 | Info | '' | 
+23:17:17 | Info | '[0/3] Initialisation du bot' | 
+23:17:17 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+23:17:17 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:17:17 | Info | '[CMD] Chargement des commandes terminé' | 
+23:17:17 | Info | '[CMD] Commande ping chargée avec succès' | 
+23:17:17 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+23:17:17 | Info | '[DB]Connexion à la base de donnée réussie' | 
+23:17:32 | Info | '' | 
+23:17:32 | Info | '[0/3] Initialisation du bot' | 
+23:17:32 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+23:17:32 | Info | '[CMD] Commande ping chargée avec succès' | 
+23:17:32 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:17:32 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+23:17:32 | Info | '[CMD] Chargement des commandes terminé' | 
+23:17:50 | Info | '' | 
+23:17:50 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+23:17:50 | Info | '[0/3] Initialisation du bot' | 
+23:17:50 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:17:50 | Info | '[CMD] Commande ping chargée avec succès' | 
+23:17:50 | Info | '[CMD] Chargement des commandes terminé' | 
+23:17:50 | Info | '[EVT] Event ready chargé avec succès' | 
+23:17:50 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+23:17:50 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+23:17:50 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+23:17:50 | Info | '[EVT] Chargement des events terminé' | 
+23:17:51 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+23:19:09 | Info | '' | 
+23:19:09 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+23:19:09 | Info | '[0/3] Initialisation du bot' | 
+23:19:09 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:19:09 | Info | '[CMD] Commande ping chargée avec succès' | 
+23:19:09 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+23:19:09 | Info | '[CMD] Chargement des commandes terminé' | 
+23:19:09 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+23:19:09 | Info | '[EVT] Event ready chargé avec succès' | 
+23:19:09 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+23:19:09 | Info | '[EVT] Chargement des events terminé' | 
+23:19:10 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+23:19:32 | Info | '' | 
+23:19:32 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+23:19:32 | Info | '[0/3] Initialisation du bot' | 
+23:19:32 | Info | '[CMD] Commande ping chargée avec succès' | 
+23:19:32 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:19:32 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+23:19:32 | Info | '[CMD] Chargement des commandes terminé' | 
+23:19:32 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+23:19:32 | Info | '[EVT] Event ready chargé avec succès' | 
+23:19:32 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+23:19:32 | Info | '[EVT] Chargement des events terminé' | 
+23:19:39 | Info | '' | 
+23:19:39 | Info | '[0/3] Initialisation du bot' | 
+23:19:39 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+23:19:39 | Info | '[CMD] Commande ping chargée avec succès' | 
+23:19:39 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:19:39 | Info | '[CMD] Chargement des commandes terminé' | 
+23:19:39 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+23:19:39 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+23:19:39 | Info | '[EVT] Event ready chargé avec succès' | 
+23:19:39 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+23:19:39 | Info | '[EVT] Chargement des events terminé' | 
+23:19:40 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+23:19:54 | Info | '' | 
+23:19:54 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+23:19:54 | Info | '[CMD] Commande ping chargée avec succès' | 
+23:19:54 | Info | '[0/3] Initialisation du bot' | 
+23:19:54 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:19:54 | Info | '[CMD] Chargement des commandes terminé' | 
+23:19:54 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+23:19:54 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+23:19:54 | Info | '[EVT] Event ready chargé avec succès' | 
+23:19:54 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+23:19:54 | Info | '[EVT] Chargement des events terminé' | 
+23:19:56 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+23:20:39 | Info | '' | 
+23:20:39 | Info | '[0/3] Initialisation du bot' | 
+23:20:39 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+23:20:39 | Info | '[CMD] Commande ping chargée avec succès' | 
+23:20:39 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:20:39 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+23:20:39 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+23:20:39 | Info | '[EVT] Event ready chargé avec succès' | 
+23:20:39 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+23:20:39 | Info | '[EVT] Chargement des events terminé' | 
+23:20:39 | Info | '[CMD] Chargement des commandes terminé' | 
+23:20:40 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+23:21:05 | Info | '' | 
+23:21:05 | Info | '[0/3] Initialisation du bot' | 
+23:21:05 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+23:21:05 | Info | '[CMD] Chargement des commandes terminé' | 
+23:21:05 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:21:05 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+23:21:05 | Info | '[EVT] Event ready chargé avec succès' | 
+23:21:05 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+23:21:05 | Info | '[EVT] Chargement des events terminé' | 
+23:21:05 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:21:05 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+23:21:06 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+23:21:19 | Info | '' | 
+23:21:19 | Info | '[0/3] Initialisation du bot' | 
+23:21:19 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:21:19 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+23:21:23 | Info | '' | 
+23:21:23 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+23:21:23 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:21:23 | Info | '[0/3] Initialisation du bot' | 
+23:21:23 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:21:23 | Info | '[CMD] Chargement des commandes terminé' | 
+23:21:23 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+23:21:23 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+23:21:23 | Info | '[EVT] Event ready chargé avec succès' | 
+23:21:23 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+23:21:23 | Info | '[EVT] Chargement des events terminé' | 
+23:21:24 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+23:23:03 | Info | '' | 
+23:23:03 | Info | '[0/3] Initialisation du bot' | 
+23:23:03 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:23:03 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:23:03 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+23:23:03 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+23:23:03 | Info | '[CMD] Chargement des commandes terminé' | 
+23:23:03 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+23:23:03 | Info | '[EVT] Event ready chargé avec succès' | 
+23:23:03 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+23:23:03 | Info | '[EVT] Chargement des events terminé' | 
+23:23:04 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+23:23:10 | Error | 'Erreur lors de l\'exécution de la commande setsound' | 
+23:23:10 | Error | ({'constraint':'s.array(T).lengthGreaterThanOrEqual','given':[],'expected':'expected.length >= 1'}) | 
+23:25:41 | Info | '[0/3] Initialisation du bot' | 
+23:25:41 | Info | '' | 
+23:25:41 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+23:25:41 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:25:41 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:25:41 | Info | '[CMD] Chargement des commandes terminé' | 
+23:25:41 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+23:25:41 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+23:25:41 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+23:25:41 | Info | '[EVT] Event ready chargé avec succès' | 
+23:25:41 | Info | '[EVT] Chargement des events terminé' | 
+23:25:42 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+23:25:45 | Error | 'Erreur lors de l\'exécution de la commande setsound' | 
+23:25:45 | Error | ({'validator':'s.nativeEnum(T)','given':undefined}) | 
+23:26:47 | Info | '' | 
+23:26:47 | Info | '[0/3] Initialisation du bot' | 
+23:26:47 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+23:26:47 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:26:47 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:26:47 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+23:26:47 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+23:26:47 | Info | '[CMD] Chargement des commandes terminé' | 
+23:26:47 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+23:26:47 | Info | '[EVT] Event ready chargé avec succès' | 
+23:26:47 | Info | '[EVT] Chargement des events terminé' | 
+23:26:48 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+23:26:54 | Error | 'Erreur lors de l\'exécution de la commande setsound' | 
+23:26:54 | Error | ({'validator':'s.nativeEnum(T)','given':undefined}) | 
+23:27:27 | Info | '' | 
+23:27:27 | Info | '[0/3] Initialisation du bot' | 
+23:27:27 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:27:27 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+23:27:27 | Info | '[CMD] Chargement des commandes terminé' | 
+23:27:27 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+23:27:27 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:27:27 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+23:27:27 | Info | '[EVT] Event ready chargé avec succès' | 
+23:27:27 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+23:27:27 | Info | '[EVT] Chargement des events terminé' | 
+23:27:28 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+23:27:31 | Error | 'Erreur lors de l\'exécution de la commande setsound' | 
+23:27:31 | Error | ({'validator':'s.string','given':undefined}) | 
+23:28:25 | Info | '' | 
+23:28:25 | Info | '[0/3] Initialisation du bot' | 
+23:28:25 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:28:25 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+23:28:25 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:28:25 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+23:28:25 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+23:28:25 | Info | '[CMD] Chargement des commandes terminé' | 
+23:28:25 | Info | '[EVT] Event ready chargé avec succès' | 
+23:28:25 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+23:28:25 | Info | '[EVT] Chargement des events terminé' | 
+23:28:26 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+23:35:23 | Info | '' | 
+23:35:23 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+23:35:23 | Info | '[0/3] Initialisation du bot' | 
+23:35:24 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:35:23 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:35:24 | Info | '[CMD] Chargement des commandes terminé' | 
+23:35:24 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+23:35:24 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+23:35:24 | Info | '[EVT] Event ready chargé avec succès' | 
+23:35:24 | Info | '[EVT] Event undefined chargé avec succès' | 
+23:35:24 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+23:35:24 | Info | '[EVT] Chargement des events terminé' | 
+23:35:25 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+23:37:15 | Info | '' | 
+23:37:15 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+23:37:15 | Info | '[0/3] Initialisation du bot' | 
+23:37:15 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:37:15 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:37:15 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+23:37:15 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+23:37:15 | Info | '[CMD] Chargement des commandes terminé' | 
+23:37:15 | Info | '[EVT] Event undefined chargé avec succès' | 
+23:37:15 | Info | '[EVT] Event ready chargé avec succès' | 
+23:37:15 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+23:37:15 | Info | '[EVT] Chargement des events terminé' | 
+23:37:16 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+23:38:49 | Info | '' | 
+23:38:49 | Info | '[0/3] Initialisation du bot' | 
+23:38:49 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:38:49 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:38:49 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+23:38:49 | Info | '[CMD] Chargement des commandes terminé' | 
+23:38:49 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+23:38:49 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+23:38:49 | Info | '[EVT] Event ready chargé avec succès' | 
+23:38:49 | Info | '[EVT] Event undefined chargé avec succès' | 
+23:38:49 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+23:38:49 | Info | '[EVT] Chargement des events terminé' | 
+23:38:50 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+23:40:35 | Info | '' | 
+23:40:35 | Info | '[0/3] Initialisation du bot' | 
+23:40:35 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:40:35 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+23:40:35 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:40:35 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+23:40:35 | Info | '[EVT] Event undefined chargé avec succès' | 
+23:40:35 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+23:40:35 | Info | '[CMD] Chargement des commandes terminé' | 
+23:40:35 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+23:40:35 | Info | '[EVT] Event ready chargé avec succès' | 
+23:40:35 | Info | '[EVT] Chargement des events terminé' | 
+23:40:36 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+23:40:41 | Info | 'La commande setsound a été exécutée pâr %u' | 
+23:40:52 | Info | '' | 
+23:40:52 | Info | '[0/3] Initialisation du bot' | 
+23:40:52 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+23:40:52 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:40:52 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:40:52 | Info | '[CMD] Chargement des commandes terminé' | 
+23:40:52 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+23:40:52 | Info | '[EVT] Event undefined chargé avec succès' | 
+23:40:52 | Info | '[EVT] Event ready chargé avec succès' | 
+23:40:52 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+23:40:52 | Info | '[EVT] Chargement des events terminé' | 
+23:40:52 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+23:40:53 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+23:40:56 | Info | 'La commande setsound a été exécutée pâr xeit0w' | 
+23:41:19 | Info | '' | 
+23:41:19 | Info | '[0/3] Initialisation du bot' | 
+23:41:19 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:41:19 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+23:41:19 | Info | '[CMD] Chargement des commandes terminé' | 
+23:41:19 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:41:19 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+23:41:19 | Info | '[EVT] Event undefined chargé avec succès' | 
+23:41:19 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+23:41:19 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+23:41:19 | Info | '[EVT] Chargement des events terminé' | 
+23:41:19 | Info | '[EVT] Event ready chargé avec succès' | 
+23:41:20 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+23:41:22 | Info | 'La commande setsound a été exécutée pâr undefined' | 
+23:42:33 | Info | '' | 
+23:42:33 | Info | '[0/3] Initialisation du bot' | 
+23:42:33 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+23:42:33 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:42:33 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:42:33 | Info | '[CMD] Chargement des commandes terminé' | 
+23:42:33 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+23:42:33 | Info | '[EVT] Event undefined chargé avec succès' | 
+23:42:33 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+23:42:33 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+23:42:33 | Info | '[EVT] Event ready chargé avec succès' | 
+23:42:33 | Info | '[EVT] Chargement des events terminé' | 
+23:42:34 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+23:42:35 | Info | 'La commande setsound a été exécutée pâr xeit0w' | 
+23:43:01 | Info | '' | 
+23:43:01 | Info | '[0/3] Initialisation du bot' | 
+23:43:01 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+23:43:01 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:43:01 | Info | '[CMD] Chargement des commandes terminé' | 
+23:43:01 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:43:01 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+23:43:01 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+23:43:01 | Info | '[EVT] Event undefined chargé avec succès' | 
+23:43:01 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+23:43:01 | Info | '[EVT] Chargement des events terminé' | 
+23:43:01 | Info | '[EVT] Event ready chargé avec succès' | 
+23:43:02 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+23:48:41 | Info | '' | 
+23:48:41 | Info | '[0/3] Initialisation du bot' | 
+23:48:41 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+23:48:41 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:48:41 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:48:41 | Info | '[CMD] Chargement des commandes terminé' | 
+23:48:41 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+23:48:41 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+23:48:41 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+23:48:41 | Info | '[EVT] Event ready chargé avec succès' | 
+23:48:41 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+23:48:41 | Info | '[EVT] Chargement des events terminé' | 
+23:48:43 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+23:48:50 | Info | 'La commande setsound a été exécutée pâr xeit0w' | 
+23:49:48 | Info | '' | 
+23:49:48 | Info | '[0/3] Initialisation du bot' | 
+23:49:48 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:49:48 | Info | '[1/3] Chargement des commandes ............................................................................' | 
+23:49:48 | Info | '[CMD] Chargement des commandes terminé' | 
+23:49:48 | Info | '[CMD] Commande setsound chargée avec succès' | 
+23:49:48 | Info | '[2/3] Chargement des Events ...............................................................................' | 
+23:49:48 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+23:49:48 | Info | '[EVT] Event ready chargé avec succès' | 
+23:49:48 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+23:49:48 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+23:49:48 | Info | '[EVT] Chargement des events terminé' | 
+23:49:49 | Info | '[3/3] Connecté en tant que Murloc#7410 ....................................................................' | 
+23:49:56 | Info | 'La commande setsound a été exécutée pâr xeit0w' | 

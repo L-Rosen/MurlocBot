@@ -1,0 +1,18 @@
+01:54:26 | Info | '[TIMER] Le chrono est en pause pour louisnemo' | 
+01:54:58 | Info | 'louisnemo a gagné 31 xp !' | 
+17:43:07 | Info | 'motisma a été murlocké avec succès' | 
+17:43:36 | Info | '[TIMER] Départ du chrono pour louisnemo' | 
+17:43:37 | Info | 'louisnemo a été murlocké avec succès' | 
+17:43:44 | Info | '[TIMER] Départ du chrono pour motisma' | 
+19:22:53 | Info | 'louisnemo a gagné 16 xp !' | 
+22:02:10 | Info | 'louisnemo a été murlocké avec succès' | 
+22:04:47 | Info | '[TIMER] Départ du chrono pour motisma' | 
+22:04:48 | Info | 'motisma a été murlocké avec succès' | 
+22:04:49 | Info | '[TIMER] Départ du chrono pour louisnemo' | 
+22:56:03 | Info | 'jubilol a été murlocké avec succès' | 
+22:56:50 | Info | '[TIMER] Le chrono reprend pour jubilol' | 
+23:18:01 | Info | 'La commande leaderboard a été exécutée par xeit0w' | 
+23:18:32 | Info | 'La commande leaderboard a été exécutée par xeit0w' | 
+23:19:07 | Error | 'Erreur lors de l\'exécution de la commande stats' | 
+23:19:07 | Error | 'TypeError: Cannot read properties of null (reading \'get\')\n    at Object.execute (/home/discord-bot/js/murlock/commands/murlock/stats.js:22:30)\n    at async Object.execute (/home/discord-bot/js/murlock/events/interactionCreate.js:16:13)' | 
+23:48:11 | Info | 'louisnemo a gagné 17 xp !' | 

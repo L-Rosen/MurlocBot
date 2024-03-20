@@ -1,0 +1,311 @@
+00:25:39 | Info | '' | 
+00:25:39 | Info | '[0/3] Initialisation du bot' | 
+00:25:39 | Info | '[1/3] Chargement des commandes ' | 
+00:25:39 | Info | '[CMD] Commande clear chargée avec succès' | 
+00:25:39 | Info | '[CMD] Commande help chargée avec succès' | 
+00:25:39 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+00:25:39 | Info | '[CMD] Commande ping chargée avec succès' | 
+00:25:39 | Info | '[CMD] Commande leaderboard chargée avec succès' | 
+00:25:39 | Info | '[CMD] Commande preview chargée avec succès' | 
+00:25:39 | Info | '[CMD] Commande reset chargée avec succès' | 
+00:25:39 | Info | '[CMD] Commande setsound chargée avec succès' | 
+00:25:39 | Info | '[CMD] Commande stats chargée avec succès' | 
+00:25:39 | Info | '[CMD] Chargement des commandes terminé' | 
+00:25:39 | Info | '[2/3] Chargement des Events' | 
+00:25:39 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+00:25:39 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+00:25:39 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+00:25:39 | Info | '[DB] Chargement de la base de donnée' | 
+00:25:39 | Info | '[EVT] Event ready chargé avec succès' | 
+00:25:39 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+00:25:39 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+00:25:39 | Info | '[EVT] Chargement des events terminé' | 
+00:25:40 | Info | '[DB] Base de donnée chargée avec succès' | 
+00:25:41 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+00:26:39 | Info | '[TIMER] Vérification du channel LE PMU' | 
+00:26:39 | Info | '[TIMER] Départ du chrono pour celekyuto' | 
+00:26:39 | Info | '[TIMER] Départ du chrono pour xeit0w' | 
+00:26:39 | Info | '[TIMER] Départ du chrono pour motisma' | 
+00:27:39 | Info | '[TIMER] Vérification du channel LE PMU' | 
+00:28:39 | Info | '[TIMER] Vérification du channel LE PMU' | 
+00:28:57 | Info | 'xeit0w a gagné 0 xp !' | 
+00:32:33 | Info | '' | 
+00:32:33 | Info | '[0/3] Initialisation du bot' | 
+00:32:33 | Info | '[1/3] Chargement des commandes ' | 
+00:32:33 | Info | '[CMD] Commande clear chargée avec succès' | 
+00:32:33 | Info | '[CMD] Commande help chargée avec succès' | 
+00:32:33 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+00:32:33 | Info | '[CMD] Commande ping chargée avec succès' | 
+00:32:33 | Info | '[CMD] Commande leaderboard chargée avec succès' | 
+00:32:33 | Info | '[CMD] Commande preview chargée avec succès' | 
+00:32:33 | Info | '[CMD] Commande reset chargée avec succès' | 
+00:32:33 | Info | '[CMD] Commande setsound chargée avec succès' | 
+00:32:33 | Info | '[CMD] Commande stats chargée avec succès' | 
+00:32:33 | Info | '[CMD] Chargement des commandes terminé' | 
+00:32:33 | Info | '[2/3] Chargement des Events' | 
+00:32:33 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+00:32:33 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+00:32:33 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+00:32:34 | Info | '[DB] Chargement de la base de donnée' | 
+00:32:34 | Info | '[EVT] Event ready chargé avec succès' | 
+00:32:34 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+00:32:34 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+00:32:34 | Info | '[EVT] Chargement des events terminé' | 
+00:32:34 | Info | '[DB] Base de donnée chargée avec succès' | 
+00:32:35 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+00:33:34 | Info | '[TIMER] Vérification du channel LE PMU' | 
+00:33:34 | Info | '[TIMER] Départ du chrono pour celekyuto' | 
+00:33:34 | Info | '[TIMER] Départ du chrono pour xeit0w' | 
+00:33:34 | Info | '[TIMER] Départ du chrono pour motisma' | 
+00:34:34 | Info | '[TIMER] Vérification du channel LE PMU' | 
+00:35:34 | Info | '[TIMER] Vérification du channel LE PMU' | 
+00:36:34 | Info | '[TIMER] Vérification du channel LE PMU' | 
+00:37:34 | Info | '[TIMER] Vérification du channel LE PMU' | 
+00:38:34 | Info | '[TIMER] Vérification du channel LE PMU' | 
+00:39:34 | Info | '[TIMER] Vérification du channel LE PMU' | 
+00:40:34 | Info | '[TIMER] Vérification du channel LE PMU' | 
+00:41:11 | Info | 'celekyuto a gagné 1 xp !' | 
+00:46:33 | Info | 'xeit0w a gagné 2 xp !' | 
+00:47:38 | Info | '' | 
+00:47:38 | Info | '[0/3] Initialisation du bot' | 
+00:47:38 | Info | '[1/3] Chargement des commandes ' | 
+00:47:38 | Info | '[CMD] Commande clear chargée avec succès' | 
+00:47:38 | Info | '[CMD] Commande help chargée avec succès' | 
+00:47:38 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+00:47:38 | Info | '[CMD] Commande ping chargée avec succès' | 
+00:47:38 | Info | '[CMD] Commande leaderboard chargée avec succès' | 
+00:47:38 | Info | '[CMD] Commande preview chargée avec succès' | 
+00:47:38 | Info | '[CMD] Commande reset chargée avec succès' | 
+00:47:38 | Info | '[CMD] Commande setsound chargée avec succès' | 
+00:47:38 | Info | '[CMD] Commande stats chargée avec succès' | 
+00:47:38 | Info | '[CMD] Chargement des commandes terminé' | 
+00:47:38 | Info | '[2/3] Chargement des Events' | 
+00:47:38 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+00:47:38 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+00:47:38 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+00:47:38 | Info | '[DB] Chargement de la base de donnée' | 
+00:47:38 | Info | '[EVT] Event ready chargé avec succès' | 
+00:47:38 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+00:47:38 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+00:47:38 | Info | '[EVT] Chargement des events terminé' | 
+00:47:39 | Info | '[DB] Base de donnée chargée avec succès' | 
+00:47:39 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+00:47:45 | Info | 'xeit0w a été murlocké avec succès' | 
+00:48:38 | Info | '[TIMER] Départ du chrono pour xeit0w' | 
+00:48:38 | Info | '[TIMER] Départ du chrono pour motisma' | 
+00:51:58 | Info | 'xeit0w a gagné 0 xp !' | 
+00:52:00 | Info | 'xeit0w a été murlocké avec succès' | 
+01:43:39 | Info | 'xeit0w a gagné 9 xp !' | 
+01:43:57 | Info | 'xeit0w a été murlocké avec succès' | 
+01:44:01 | Info | 'xeit0w a gagné 9 xp !' | 
+16:57:32 | Info | '' | 
+16:57:32 | Info | '[0/3] Initialisation du bot' | 
+16:57:32 | Info | '[1/3] Chargement des commandes ' | 
+16:57:32 | Info | '[CMD] Commande clear chargée avec succès' | 
+16:57:32 | Info | '[CMD] Commande help chargée avec succès' | 
+16:57:32 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+16:57:32 | Info | '[CMD] Commande ping chargée avec succès' | 
+16:57:32 | Info | '[CMD] Commande leaderboard chargée avec succès' | 
+16:57:32 | Info | '[CMD] Commande preview chargée avec succès' | 
+16:57:32 | Info | '[CMD] Commande reset chargée avec succès' | 
+16:57:32 | Info | '[CMD] Commande setsound chargée avec succès' | 
+16:57:32 | Info | '[CMD] Commande stats chargée avec succès' | 
+16:57:32 | Info | '[CMD] Chargement des commandes terminé' | 
+16:57:32 | Info | '[2/3] Chargement des Events' | 
+16:57:32 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+16:57:32 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+16:57:32 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+16:57:32 | Info | '[DB] Chargement de la base de donnée' | 
+16:57:32 | Info | '[EVT] Event ready chargé avec succès' | 
+16:57:32 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+16:57:32 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+16:57:32 | Info | '[EVT] Chargement des events terminé' | 
+16:57:33 | Info | '[DB] Base de donnée chargée avec succès' | 
+16:57:34 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+16:58:32 | Info | '[TIMER] Vérification du channel LE PMU' | 
+16:58:32 | Info | '[TIMER] Départ du chrono pour Alartic#4028' | 
+16:58:32 | Info | '[TIMER] Départ du chrono pour xeit0w' | 
+16:58:32 | Info | '[TIMER] Départ du chrono pour cumplex' | 
+16:58:32 | Info | '[TIMER] Départ du chrono pour motisma' | 
+16:58:32 | Info | '[TIMER] Départ du chrono pour kkdours' | 
+16:59:32 | Info | '[TIMER] Vérification du channel LE PMU' | 
+17:00:07 | Info | 'xeit0w a gagné 0 xp !' | 
+19:17:05 | Info | '' | 
+19:17:05 | Info | '[0/3] Initialisation du bot' | 
+19:17:05 | Info | '[1/3] Chargement des commandes ' | 
+19:17:05 | Info | '[CMD] Commande clear chargée avec succès' | 
+19:17:05 | Info | '[CMD] Commande help chargée avec succès' | 
+19:17:05 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+19:17:05 | Info | '[CMD] Commande ping chargée avec succès' | 
+19:17:05 | Info | '[CMD] Commande leaderboard chargée avec succès' | 
+19:17:05 | Info | '[CMD] Commande preview chargée avec succès' | 
+19:17:05 | Info | '[CMD] Commande reset chargée avec succès' | 
+19:17:05 | Info | '[CMD] Commande setsound chargée avec succès' | 
+19:17:05 | Info | '[CMD] Commande stats chargée avec succès' | 
+19:17:05 | Info | '[CMD] Chargement des commandes terminé' | 
+19:17:05 | Info | '[2/3] Chargement des Events' | 
+19:17:05 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+19:17:05 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+19:17:05 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+19:17:05 | Info | '[DB] Chargement de la base de donnée' | 
+19:17:05 | Info | '[EVT] Event ready chargé avec succès' | 
+19:17:05 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+19:17:05 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+19:17:05 | Info | '[EVT] Chargement des events terminé' | 
+19:17:06 | Info | '[DB] Base de donnée chargée avec succès' | 
+19:17:07 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+19:18:05 | Info | '[TIMER]' | 
+19:18:05 | Info | '[TIMER]' | 
+19:18:06 | Info | '[TIMER]' | 
+19:18:06 | Info | '[TIMER] Départ du chrono pour celekyuto' | 
+19:18:06 | Info | '[TIMER] Départ du chrono pour Alartic#4028' | 
+19:18:06 | Info | '[TIMER] Départ du chrono pour xenix13' | 
+19:18:06 | Info | '[TIMER] Départ du chrono pour omigom' | 
+19:18:06 | Info | '[TIMER] Départ du chrono pour __keekee__' | 
+19:18:06 | Info | '[TIMER]' | 
+19:18:06 | Info | '[TIMER]' | 
+19:18:06 | Info | '[TIMER]' | 
+19:18:06 | Info | '[TIMER]' | 
+19:18:06 | Info | '[TIMER]' | 
+19:18:06 | Info | '[TIMER]' | 
+19:18:06 | Info | '[TIMER]' | 
+19:18:30 | Info | 'xeit0w a été murlocké avec succès' | 
+19:19:05 | Info | '[TIMER]' | 
+19:19:05 | Info | '[TIMER]' | 
+19:19:05 | Info | '[TIMER]' | 
+19:19:05 | Info | '[TIMER]' | 
+19:19:05 | Info | '[TIMER]' | 
+19:19:05 | Info | '[TIMER]' | 
+19:19:05 | Info | '[TIMER]' | 
+19:19:06 | Info | '[TIMER]' | 
+19:19:06 | Info | '[TIMER]' | 
+19:19:06 | Info | '[TIMER]' | 
+19:19:25 | Info | '' | 
+19:19:25 | Info | '[0/3] Initialisation du bot' | 
+19:19:25 | Info | '[1/3] Chargement des commandes ' | 
+19:19:25 | Info | '[CMD] Commande clear chargée avec succès' | 
+19:19:25 | Info | '[CMD] Commande help chargée avec succès' | 
+19:19:25 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+19:19:25 | Info | '[CMD] Commande ping chargée avec succès' | 
+19:19:25 | Info | '[CMD] Commande leaderboard chargée avec succès' | 
+19:19:25 | Info | '[CMD] Commande preview chargée avec succès' | 
+19:19:25 | Info | '[CMD] Commande reset chargée avec succès' | 
+19:19:25 | Info | '[CMD] Commande setsound chargée avec succès' | 
+19:19:25 | Info | '[CMD] Commande stats chargée avec succès' | 
+19:19:25 | Info | '[CMD] Chargement des commandes terminé' | 
+19:19:25 | Info | '[2/3] Chargement des Events' | 
+19:19:25 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+19:19:25 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+19:19:25 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+19:19:25 | Info | '[DB] Chargement de la base de donnée' | 
+19:19:26 | Info | '[EVT] Event ready chargé avec succès' | 
+19:19:26 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+19:19:26 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+19:19:26 | Info | '[EVT] Chargement des events terminé' | 
+19:19:26 | Info | '[DB] Base de donnée chargée avec succès' | 
+19:19:27 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+19:19:32 | Info | 'xeit0w a été murlocké avec succès' | 
+19:20:25 | Info | '' | 
+19:20:25 | Info | '[0/3] Initialisation du bot' | 
+19:20:25 | Info | '[1/3] Chargement des commandes ' | 
+19:20:25 | Info | '[CMD] Commande clear chargée avec succès' | 
+19:20:25 | Info | '[CMD] Commande help chargée avec succès' | 
+19:20:25 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+19:20:25 | Info | '[CMD] Commande ping chargée avec succès' | 
+19:20:25 | Info | '[CMD] Commande leaderboard chargée avec succès' | 
+19:20:25 | Info | '[CMD] Commande preview chargée avec succès' | 
+19:20:25 | Info | '[CMD] Commande reset chargée avec succès' | 
+19:20:25 | Info | '[CMD] Commande setsound chargée avec succès' | 
+19:20:25 | Info | '[CMD] Commande stats chargée avec succès' | 
+19:20:25 | Info | '[CMD] Chargement des commandes terminé' | 
+19:20:25 | Info | '[2/3] Chargement des Events' | 
+19:20:25 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+19:20:25 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+19:20:25 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+19:20:26 | Info | '[DB] Chargement de la base de donnée' | 
+19:20:26 | Info | '[EVT] Event ready chargé avec succès' | 
+19:20:26 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+19:20:26 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+19:20:26 | Info | '[EVT] Chargement des events terminé' | 
+19:20:26 | Info | '[DB] Base de donnée chargée avec succès' | 
+19:20:27 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+19:20:37 | Info | '[TIMER] Départ du chrono pour celekyuto' | 
+19:20:38 | Info | 'xeit0w a été murlocké avec succès' | 
+19:20:55 | Info | '' | 
+19:20:55 | Info | '[0/3] Initialisation du bot' | 
+19:20:55 | Info | '[1/3] Chargement des commandes ' | 
+19:20:55 | Info | '[CMD] Commande clear chargée avec succès' | 
+19:20:55 | Info | '[CMD] Commande help chargée avec succès' | 
+19:20:55 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+19:20:55 | Info | '[CMD] Commande ping chargée avec succès' | 
+19:20:55 | Info | '[CMD] Commande leaderboard chargée avec succès' | 
+19:20:55 | Info | '[CMD] Commande preview chargée avec succès' | 
+19:20:55 | Info | '[CMD] Commande reset chargée avec succès' | 
+19:20:55 | Info | '[CMD] Commande setsound chargée avec succès' | 
+19:20:56 | Info | '[CMD] Commande stats chargée avec succès' | 
+19:20:56 | Info | '[CMD] Chargement des commandes terminé' | 
+19:20:56 | Info | '[2/3] Chargement des Events' | 
+19:20:56 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+19:20:56 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+19:20:56 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+19:20:56 | Info | '[DB] Chargement de la base de donnée' | 
+19:20:56 | Info | '[EVT] Event ready chargé avec succès' | 
+19:20:56 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+19:20:56 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+19:20:56 | Info | '[EVT] Chargement des events terminé' | 
+19:20:57 | Info | '[DB] Base de donnée chargée avec succès' | 
+19:20:57 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+19:21:06 | Info | '[TIMER] Départ du chrono pour celekyuto' | 
+19:21:07 | Info | 'xeit0w a été murlocké avec succès' | 
+19:21:56 | Info | '[TIMER] Départ du chrono pour celekyuto' | 
+19:21:56 | Info | '[TIMER] Départ du chrono pour xenix13' | 
+19:21:56 | Info | '[TIMER] Départ du chrono pour __keekee__' | 
+19:23:29 | Info | '' | 
+19:23:29 | Info | '[0/3] Initialisation du bot' | 
+19:23:29 | Info | '[1/3] Chargement des commandes ' | 
+19:23:29 | Info | '[CMD] Commande clear chargée avec succès' | 
+19:23:29 | Info | '[CMD] Commande help chargée avec succès' | 
+19:23:29 | Info | '[CMD] Commande spawnroles chargée avec succès' | 
+19:23:29 | Info | '[CMD] Commande ping chargée avec succès' | 
+19:23:29 | Info | '[CMD] Commande leaderboard chargée avec succès' | 
+19:23:29 | Info | '[CMD] Commande preview chargée avec succès' | 
+19:23:29 | Info | '[CMD] Commande reset chargée avec succès' | 
+19:23:29 | Info | '[CMD] Commande setsound chargée avec succès' | 
+19:23:29 | Info | '[CMD] Commande stats chargée avec succès' | 
+19:23:29 | Info | '[CMD] Chargement des commandes terminé' | 
+19:23:29 | Info | '[2/3] Chargement des Events' | 
+19:23:29 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+19:23:29 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+19:23:29 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+19:23:30 | Info | '[DB] Chargement de la base de donnée' | 
+19:23:30 | Info | '[EVT] Event ready chargé avec succès' | 
+19:23:30 | Info | '[EVT] Event interactionCreate chargé avec succès' | 
+19:23:30 | Info | '[EVT] Event voiceStateUpdate chargé avec succès' | 
+19:23:30 | Info | '[EVT] Chargement des events terminé' | 
+19:23:30 | Info | '[DB] Base de donnée chargée avec succès' | 
+19:23:31 | Info | '[3/3] Connecté en tant que Murloc#7410' | 
+19:24:00 | Info | '[TIMER] Départ du chrono pour xeit0w' | 
+19:24:01 | Info | 'xeit0w a été murlocké avec succès' | 
+19:24:30 | Info | '[TIMER] Départ du chrono pour celekyuto' | 
+19:24:30 | Info | '[TIMER] Départ du chrono pour xenix13' | 
+19:24:30 | Info | '[TIMER] Départ du chrono pour __keekee__' | 
+19:50:29 | Info | 'xeit0w a gagné 4 xp !' | 
+19:50:38 | Info | 'xeit0w a été murlocké avec succès' | 
+20:06:23 | Info | '__keekee__ a gagné 6 xp !' | 
+20:46:10 | Info | 'La commande leaderboard a été exécutée par xeit0w' | 
+21:05:53 | Info | '[TIMER] Départ du chrono pour __keekee__' | 
+21:05:54 | Info | '__keekee__ a été murlocké avec succès' | 
+21:25:29 | Info | '[TIMER] Départ du chrono pour wizzard08' | 
+21:25:29 | Info | 'wizzard08 a été murlocké avec succès' | 
+22:19:45 | Info | '[TIMER] Départ du chrono pour omigom' | 
+22:19:46 | Info | 'omigom a été murlocké avec succès' | 
+22:33:50 | Info | 'xenix13 a gagné 31 xp !' | 
+22:34:16 | Info | 'omigom a gagné 2 xp !' | 
+22:53:30 | Info | '__keekee__ a gagné 17 xp !' | 
+22:53:30 | Info | '%s est passé niveau 3 !' | 
+22:55:47 | Info | '[TIMER] Départ du chrono pour motisma' | 
+22:55:48 | Info | 'motisma a été murlocké avec succès' | 
+23:17:31 | Info | '[TIMER] Départ du chrono pour xeit0w' | 
+23:17:32 | Info | 'xeit0w a été murlocké avec succès' | 
+23:29:25 | Info | 'wizzard08 a gagné 20 xp !' | 
+23:29:25 | Info | '%s est passé niveau 3 !' | 
